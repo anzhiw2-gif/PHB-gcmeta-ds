@@ -1,0 +1,22 @@
+# PHB degradation gene set (PhaDED / DED classification architecture -> KEGG orthologs)
+#
+# Columns:
+#   ko            KEGG Orthology ID
+#   symbol        gene symbol(s)
+#   name          enzyme name (KEGG)
+#   ec            EC number
+#   role          functional role in PHB degradation
+#   ded_superfamily  superfamily in the PHA Depolymerase Engineering Database (DED; Knoll et al. 2009, doi:10.1186/1471-2105-10-89)
+#   tier          1 = depolymerase; 2 = 3HB mobilization; R = reference (PHB biosynthesis, not degradation)
+#   include_loci  1 = fetch gene-level loci from gcMeta; 0 = genome-level presence only
+#
+ko	symbol	name	ec	role	ded_superfamily	tier	include_loci
+K05973	phaZ	poly(3-hydroxybutyrate) depolymerase	3.1.1.75	extracellular PHB/PHASCL depolymerase; also intracellular phaZ1	extracellular dPHASCL depolymerases (catalytic domain type 1/2); intracellular nPHASCL	1	1
+K22249	phaZ	poly(3-hydroxyoctanoate) depolymerase	3.1.1.76	PHAMCL/PHO depolymerase	extracellular dPHAMCL depolymerases	1	1
+K22250	phaZ	poly(3-hydroxyoctanoate) depolymerase	3.1.1.76	PHAMCL/PHO depolymerase	extracellular dPHAMCL depolymerases	1	1
+K07518	E3.1.1.22	hydroxybutyrate-dimer hydrolase	3.1.1.22	3HB oligomer/dimer hydrolase (phaY/phaZ2)	intracellular nPHASCL oligomer hydrolase	2	1
+K00019	BDH1, bdhA	3-hydroxybutyrate dehydrogenase	1.1.1.30	(R)-3-hydroxybutyrate -> acetoacetate	downstream 3HB catabolism	2	0
+K01907	AACS, acsA	acetoacetyl-CoA synthetase	6.2.1.16	acetoacetate -> acetoacetyl-CoA	downstream 3HB catabolism	2	0
+K00626	ACAT, atoB	acetyl-CoA C-acetyltransferase	2.3.1.9	PHB synthesis (phaA)	reference: PHB biosynthesis	R	0
+K00023	phbB	acetoacetyl-CoA reductase	1.1.1.36	PHB synthesis (phaB)	reference: PHB biosynthesis	R	0
+K03821	phaC, phbC	poly[(R)-3-hydroxyalkanoate] polymerase subunit PhaC	2.3.1.304	PHB synthesis (phaC)	reference: PHB biosynthesis	R	0

@@ -1,0 +1,8 @@
+node_modules/
+.uvcache/
+.gcmeta_static/
+.tmp_*
+.scratch_*
+data/raw/
+data/out/
+*.log
