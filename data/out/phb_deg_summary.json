@@ -1,0 +1,483 @@
+{
+  "totalGenomesWithDegKOs": 18297,
+  "tierCounts": {
+    "1": 8073,
+    "2": 1402,
+    "3": 8822
+  },
+  "depolymeraseGenomes": 8073,
+  "producerGenomesAmongDegraders": 17170,
+  "byCatalogue": [
+    [
+      "Marine Seawater",
+      3281
+    ],
+    [
+      "Wastewater",
+      1871
+    ],
+    [
+      "Freshwater Lake Water",
+      1833
+    ],
+    [
+      "Freshwater Sediment",
+      1377
+    ],
+    [
+      "Drinking Water",
+      1314
+    ],
+    [
+      "Marine Sediment",
+      882
+    ],
+    [
+      "Freshwater Riverine",
+      494
+    ],
+    [
+      "Human Skin",
+      488
+    ],
+    [
+      "Saline-alkaline Habitat,Saline Lake",
+      459
+    ],
+    [
+      "Agricultural Soil",
+      421
+    ],
+    [
+      "Hot Habitat,Hot Spring",
+      394
+    ],
+    [
+      "Permafrost",
+      353
+    ],
+    [
+      "Acid Habitat,Acid Mine Drainage",
+      351
+    ],
+    [
+      "Cattle Gut",
+      327
+    ],
+    [
+      "Human Gut",
+      324
+    ],
+    [
+      "Saline Lake",
+      305
+    ],
+    [
+      "Cold Habitat,Freshwater",
+      272
+    ],
+    [
+      "Chicken Gut",
+      263
+    ],
+    [
+      "Pressure Habitat,Hydrothermal Vent",
+      231
+    ],
+    [
+      "Cold Habitat,Permafrost",
+      214
+    ],
+    [
+      "Cold Habitat",
+      203
+    ],
+    [
+      "Hydrothermal Vent",
+      187
+    ],
+    [
+      "Cold Habitat,Soil",
+      137
+    ],
+    [
+      "Hot Spring",
+      136
+    ],
+    [
+      "Giant panda Gut",
+      114
+    ],
+    [
+      "Zebrafish Gut",
+      110
+    ],
+    [
+      "Groundwater",
+      104
+    ],
+    [
+      "Saline-alkaline Habitat",
+      102
+    ],
+    [
+      "Saline-alkaline Habitat,Cold Habitat",
+      95
+    ],
+    [
+      "Rice Rhizosphere",
+      93
+    ],
+    [
+      "Pressure Habitat,Sediment",
+      84
+    ],
+    [
+      "Pig Gut",
+      80
+    ],
+    [
+      "Wheat Rhizosphere",
+      77
+    ],
+    [
+      "Sheep Gut",
+      77
+    ],
+    [
+      "Arabidopsis Rhizosphere",
+      74
+    ],
+    [
+      "Acid Habitat,Hot Habitat,Pressure Habitat",
+      62
+    ],
+    [
+      "Goat Gut",
+      60
+    ],
+    [
+      "Cold Habitat,Marine,Pressure Habitat",
+      57
+    ],
+    [
+      "Acid Mine Drainage",
+      55
+    ],
+    [
+      "Pressure Habitat",
+      54
+    ],
+    [
+      "Marine,Pressure Habitat",
+      52
+    ],
+    [
+      "Cold Habitat,Marine",
+      52
+    ],
+    [
+      "Hot Habitat,Pressure Habitat,Hydrothermal Vent",
+      49
+    ],
+    [
+      "Cold Habitat,Saline Lake",
+      44
+    ],
+    [
+      "Hot Habitat,Pressure Habitat",
+      42
+    ],
+    [
+      "Mouse Gut",
+      39
+    ],
+    [
+      "Acid Habitat",
+      38
+    ],
+    [
+      "Saline-alkaline Habitat,Sediment",
+      37
+    ],
+    [
+      "Bear Oral",
+      33
+    ],
+    [
+      "Freshwater,Pressure Habitat",
+      31
+    ],
+    [
+      "Saline-alkaline Habitat,Cold Habitat,Saline Lake",
+      29
+    ],
+    [
+      "Bean Rhizosphere",
+      28
+    ],
+    [
+      "Saline-alkaline Habitat,Hot Spring",
+      28
+    ],
+    [
+      "Buffalo Gut",
+      27
+    ],
+    [
+      "Deer Gut",
+      20
+    ],
+    [
+      "Turkey Gut",
+      20
+    ],
+    [
+      "Hot Habitat",
+      18
+    ],
+    [
+      "Human Vaginal",
+      17
+    ],
+    [
+      "Acid Habitat,Permafrost",
+      16
+    ],
+    [
+      "Rock,Saline-alkaline Habitat",
+      16
+    ],
+    [
+      "Wetlands Sediment",
+      15
+    ],
+    [
+      "Pressure Habitat,Water",
+      14
+    ],
+    [
+      "Hot Habitat,Hydrothermal Vent",
+      14
+    ],
+    [
+      "Acid Habitat,Hot Habitat",
+      13
+    ],
+    [
+      "Hot Habitat,Saline-alkaline Habitat,Pressure Habitat",
+      13
+    ],
+    [
+      "Hot Habitat,Saline-alkaline Habitat",
+      11
+    ],
+    [
+      "Cold Habitat,Pressure Habitat",
+      10
+    ],
+    [
+      "Acid Habitat,Cold Habitat,Permafrost",
+      10
+    ],
+    [
+      "Marine,Saline-alkaline Habitat",
+      10
+    ],
+    [
+      "Acid Habitat,Hot Spring",
+      10
+    ],
+    [
+      "Horse Gut",
+      9
+    ],
+    [
+      "Cold Habitat,Pressure Habitat,Sediment",
+      9
+    ],
+    [
+      "Elephant Gut",
+      8
+    ],
+    [
+      "Dog Gut",
+      8
+    ],
+    [
+      "Hot Habitat,Cold Habitat,Pressure Habitat",
+      8
+    ],
+    [
+      "Cold Habitat,Pressure Habitat,Hydrothermal Vent",
+      7
+    ],
+    [
+      "Hydrothermal Vents,Pressure Habitat",
+      7
+    ],
+    [
+      "Duck Gut",
+      7
+    ],
+    [
+      "Atlantic salmon Gut",
+      6
+    ],
+    [
+      "Acid Habitat,Cold Habitat",
+      6
+    ],
+    [
+      "Acid Habitat,Saline-alkaline Habitat",
+      6
+    ],
+    [
+      "Hot Habitat,Pressure Habitat,Sediment",
+      6
+    ],
+    [
+      "Acid Habitat,Hot Habitat,Hydrothermal Vent",
+      5
+    ],
+    [
+      "Cat Gut",
+      5
+    ],
+    [
+      "Musk Gut",
+      4
+    ],
+    [
+      "Waterdeer Gut",
+      4
+    ],
+    [
+      "Vulture Gut",
+      3
+    ],
+    [
+      "Acid Habitat,Saline-alkaline Habitat,Saline Lake",
+      3
+    ],
+    [
+      "Acid Habitat,Pressure Habitat",
+      2
+    ],
+    [
+      "Dromedary Gut",
+      2
+    ],
+    [
+      "Koala Gut",
+      2
+    ],
+    [
+      "Hot Habitat,Saline-alkaline Habitat,Pressure Habitat,Water",
+      2
+    ],
+    [
+      "Hot Habitat,Saline-alkaline Habitat,Pressure Habitat,Wastewater Sludge",
+      2
+    ],
+    [
+      "Acid Habitat,Hot Habitat,Hot Spring",
+      2
+    ],
+    [
+      "Acid Habitat,Cold Habitat,Pressure Habitat",
+      1
+    ],
+    [
+      "Saline-alkaline Habitat,Pressure Habitat",
+      1
+    ],
+    [
+      "Acid Habitat,Hot Habitat,Pressure Habitat,Hot Spring",
+      1
+    ]
+  ],
+  "topPhyla": [
+    [
+      "p__Pseudomonadota",
+      12888
+    ],
+    [
+      "p__Actinomycetota",
+      1768
+    ],
+    [
+      "p__Desulfobacterota",
+      618
+    ],
+    [
+      "p__Bacteroidota",
+      572
+    ],
+    [
+      "p__Chloroflexota",
+      370
+    ],
+    [
+      "p__Bacillota_A",
+      250
+    ],
+    [
+      "p__Gemmatimonadota",
+      240
+    ],
+    [
+      "p__Bacillota",
+      201
+    ],
+    [
+      "p__Myxococcota",
+      192
+    ],
+    [
+      "p__Acidobacteriota",
+      132
+    ],
+    [
+      "p__Planctomycetota",
+      113
+    ],
+    [
+      "p__Halobacteriota",
+      97
+    ],
+    [
+      "p__Bdellovibrionota",
+      92
+    ],
+    [
+      "p__Verrucomicrobiota",
+      84
+    ],
+    [
+      "p__Deinococcota",
+      79
+    ],
+    [
+      "p__Marinisomatota",
+      79
+    ],
+    [
+      "p__Eremiobacterota",
+      51
+    ],
+    [
+      "p__Thermoproteota",
+      47
+    ],
+    [
+      "p__Asgardarchaeota",
+      41
+    ],
+    [
+      "p__Cyanobacteriota",
+      35
+    ]
+  ],
+  "lociTotal": 9894
+}

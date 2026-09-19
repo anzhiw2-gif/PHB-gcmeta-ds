@@ -63,9 +63,19 @@ node src/query_gcmeta_phb.js --fresh         # 忽略缓存重查
 - **Tier 3 —— 部分**:仅含个别下游基因(如只有 BDH);
 - 同时标注 PHB 合成基因(phaA/phaB/phaC),区分"降解者 vs 生产者"。
 
-## 主要结果(摘要)
+## 主要结果(摘要,2026-09-18)
 
-见 `docs/03_results.md` 与 `data/out/`:
+在 gcMeta 2025 的 109,586 个物种级代表 MAG 中:
+
+- **18,297** 个基因组携带 ≥1 个 PHB 降解相关基因;
+- 其中 **8,073** 个为 **Tier 1 解聚酶阳性**(携带 phaZ/PHA depolymerase: K05973/K22249/K22250),
+  共 **9,894** 个解聚酶/水解酶位点(K05973 占 8,839);
+- 富集生境:Marine Seawater(3,281)、Wastewater(1,871)、Freshwater Lake Water(1,833)等水体环境;
+- 分类学:Pseudomonadota 占 70%(Burkholderiales 的 *Cupriavidus*、*Comamonas*、*Zoogloea* 等),
+  Actinomycetota 次之——与 PhaDED 种子序列宿主谱一致;
+- 17,170 个降解基因组同时携带 PHB 合成基因(phaA/phaB/phaC),呈"合成-降解一体"格局。
+
+详见 `docs/03_results.md` 与 `data/out/`:
 
 - `phb_degradation_genomes.tsv` —— 携带 PHB 降解基因的基因组全表(分类、生境、质量、KO 组合、tier)
 - `phb_degradation_loci.tsv` —— 解聚酶基因的位点级证据(基因组、坐标、GTDB 谱系)
