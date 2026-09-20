@@ -1,0 +1,40 @@
+# Split figures — legends (Fig. 1 / 2 / 3)
+
+Source data: gcMeta 2025 species-level representative MAGs carrying PHB-degradation
+orthologues (PHA Depolymerase Engineering Database classification mapped onto KEGG:
+K05973 phaZ PHB depolymerase; K22249/K22250 phaZ PHO depolymerase; K07518 3HB-dimer
+hydrolase; K00019 3-hydroxybutyrate dehydrogenase; K01907 acetoacetyl-CoA synthetase;
+synthesis reference phaA/phaB/phaC = K00626/K00023/K03821). All counts are exact
+annotation-layer retrievals (DIAMOND, e-value <= 1e-5).
+
+## Fig. 1 (fig3a_split_tiers) | How many
+
+**a**, genomes carrying at least one PHB-degradation orthologue, by tier:
+Tier 1 depolymerase-positive (K05973/K22249/K22250), n = 8,073; Tier 2 3HB
+mobilisation (K07518, or K00019 with K01907) without a depolymerase, n = 1,402;
+Tier 3 any remaining combination, n = 8,822 (total 18,297).
+
+**b**, composition of each tier by PHB-synthesis gene content (With phaC: K03821;
+Other synthesis: K00626/K00023 without K03821; None).
+
+## Fig. 2 (fig3b_split_ecology) | Where
+
+**a**, species counts per KO summed over the 50 biome catalogues within each of the
+12 biome groups (a species occurring in several catalogues of one group is counted
+once per catalogue); log10(x + 1) colour scale; white numbers are exact sums; groups
+ordered by K05973 count.
+
+**b**, the 10 biome catalogues with most PHB-degradation-genome memberships
+(a genome may belong to several catalogues).
+
+**c**, the 10 GTDB phyla with most PHB-degradation genomes.
+
+## Fig. 3 (fig3c_split_genelevel) | Which type
+
+**a**, gene loci retrieved for the depolymerase / hydrolase orthologues
+(K05973, K22249, K22250, K07518); log10 y-axis.
+
+**b**, species-level genomes carrying each of the six PHB-degradation KOs; log10 y-axis.
+
+Source data: data/out/phb_degradation_genomes.tsv, phb_degradation_loci.tsv,
+phb_deg_distribution_by_catalogue.tsv, catalogue_groups.tsv.
