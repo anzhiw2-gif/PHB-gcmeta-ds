@@ -1,0 +1,58 @@
+# Fig. 2 — QA notes (nature-figure v2.8.0, Python backend)
+
+Source: nature_figures/make_fig2_panels.py (matplotlib 3.11.0, numpy 2.4.6,
+pandas 3.0.3; PyMuPDF 1.28.2 for the collision audit).
+
+Contract
+--------
+- Core conclusion: the gcMeta PHB-degradation set is dominated by phaZ-type
+  depolymerase carriers (Tier 1, n = 8,073), concentrated in aquatic biomes and
+  Pseudomonadota, with near-universal co-occurrence of PHB synthesis genes.
+- Archetype: quantitative grid; hero panel a (KO x catalogue heatmap).
+- Export: double-column 180 mm x 175 mm; Arial/DejaVu; editable text
+  (svg.fonttype none, pdf.fonttype 42); SVG primary + PDF + PNG 300 dpi
+  (TIFF 600 dpi generated locally, gitignored).
+
+Checks (all re-run after the final layout change)
+-------------------------------------------------
+- validate_figure.py: 18 PASS / 3 WARN / 0 FAIL -> READY FOR VISUAL QA.
+  WARNs are the FINAL-WIDTH heuristic (the parser multiplies the figsize
+  expression; the rendered width is 180 mm) and the log-guard note (both log
+  panels carry explicit positivity guards: np.maximum(..., 1) and a +1
+  pseudocount on the heatmap).
+- require_matplotlib_panel_alignment: PASS (0 fail / 0 warn, 7 comparisons,
+  strict, 1.5 pt). Panels b/c, d/e and f/g form the comparable row groups;
+  hero panel a and the full-width histogram h are excluded from those groups.
+- audit_pdf_text.py (--min-pt 5): PASS (minimum glyph 5.6 pt; log-axis tick
+  exponents replaced by plain decimal labels).
+- audit_figure_collisions.py: PASS (0 fail / 0 warn). 53 contained fill
+  overlays are intentional (value labels inside bar/heatmap fills).
+
+Defects found and fixed during QA (kept for the audit trail)
+------------------------------------------------------------
+1. Hero heatmap matrix was not transposed (50 catalogues plotted as rows while
+   6 KO tick labels were attached), which compressed all y labels into ~5 pt.
+   Fixed by transposing to (6 KOs) x (50 catalogues).
+2. Row-heavy panels (15 biomes, 12 phyla) were placed in the shortest grid row;
+   their tick labels overlapped by up to 100 %. Fixed by moving them into the
+   tallest row (height_ratios 2.9) and adding y-limits padding.
+3. Long vertical catalogue labels on the hero panel reached into the panel
+   below; fixed with abbreviated display names (<= 11 characters) plus
+   every-fourth-column labelling (all 50 columns still plotted).
+4. Value labels on log-scale panels touched bar edges or the bottom spine when
+   placed inside short bars; replaced by a fixed value strip above the bars.
+5. Panel g legend collided with n labels; the redundant n labels were removed
+   (totals are shown in panel b).
+6. A PowerShell text rewrite corrupted the script encoding; the source was
+   rewritten from scratch and re-validated (this file name is authoritative).
+
+Data-integrity notes
+--------------------
+- No genomes or loci were excluded. Panel a plots all 50 catalogues (tick text
+  thinned only); panel d shows the top 15 and panel e the top 12 categories of
+  longer rankings.
+- Counts are annotation-layer retrievals, not sequence-level re-annotation:
+  the limits of KO-based evidence are discussed in docs/03_results.md.
+- Rendered panel-by-panel inspection at final size: this environment cannot
+  display raster previews, so delivery relies on the four automated audits plus
+  the measured PDF geometry recorded in the alignment and collision JSON files.

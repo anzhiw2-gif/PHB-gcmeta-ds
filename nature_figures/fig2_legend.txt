@@ -1,0 +1,45 @@
+# Fig. 2 — Legend
+
+**Fig. 2 | Anatomy of the gcMeta PHB-degradation genome set.**
+
+Species-level representative MAGs of gcMeta 2025
+(Sun et al., *Nucleic Acids Res* 54:D724-D733; doi:10.1093/nar/gkaf1115) carrying
+PHB-degradation orthologues, defined by mapping the PHA Depolymerase Engineering
+Database classification (Knoll et al., *BMC Bioinformatics* 10:89;
+doi:10.1186/1471-2105-10-89) onto KEGG orthologues: K05973 phaZ PHB depolymerase
+(EC 3.1.1.75); K22249/K22250 phaZ PHO depolymerase (EC 3.1.1.76); K07518
+3HB-dimer hydrolase (EC 3.1.1.22); K00019 3-hydroxybutyrate dehydrogenase
+(EC 1.1.1.30); K01907 acetoacetyl-CoA synthetase (EC 6.2.1.16); synthesis
+reference K00626/K00023/K03821 (phaA/phaB/phaC).
+
+**a**, species counts per KO across the 50 biome catalogues, ordered by K05973
+count (log10(x + 1) colour scale). Every fourth catalogue is labelled with an
+abbreviated name (full names in the source data).
+
+**b**, genomes carrying at least one PHB-degradation orthologue, by tier —
+Tier 1: depolymerase-positive (K05973/K22249/K22250); Tier 2: 3HB mobilisation
+(K07518, or K00019 with K01907) without a depolymerase; Tier 3: any remaining
+combination.
+
+**c**, species-level genomes carrying each PHB-degradation KO (log10 y-axis;
+values above the bars).
+
+**d**, the 15 biome catalogues with most PHB-degradation-genome memberships
+(a genome may belong to several catalogues).
+
+**e**, the 12 GTDB phyla with most PHB-degradation genomes.
+
+**f**, gene loci retrieved for the depolymerase / hydrolase orthologues
+(K05973, K22249, K22250, K07518; log10 y-axis; values above the bars).
+
+**g**, composition of each tier by PHB-synthesis gene content
+(With phaC: K03821; Other synthesis: K00626/K00023 without K03821; None);
+totals are given in b.
+
+**h**, CheckM completeness of Tier-1 genomes.
+
+n and tier definitions as in b. All counts derive from gcMeta's annotation layer
+(DIAMOND, e-value <= 1e-5) on species-representative MAGs. Source data:
+`data/out/phb_degradation_genomes.tsv`, `data/out/phb_degradation_loci.tsv`,
+`data/out/phb_deg_distribution_by_catalogue.tsv`,
+`data/out/catalogue_groups.tsv`.
