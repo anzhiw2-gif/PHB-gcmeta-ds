@@ -12,3 +12,6 @@ data/out/
 *.whl
 .nature_fig_config.json
 nature_figures/*.tiff
+
+__pycache__/
+*.pyc
