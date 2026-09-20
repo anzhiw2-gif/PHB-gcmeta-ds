@@ -1,0 +1,923 @@
+{
+  "queriedAt": "2026-09-20T12:05:44.551Z",
+  "global": {
+    "all": 3917189,
+    "bacteria": 3846768,
+    "archaea": 69812,
+    "bacteriaPct": 98.2,
+    "archaeaPct": 1.78
+  },
+  "catalogues": [
+    {
+      "catalogue": "Horse Gut",
+      "group": "Animals",
+      "genomeNum": 2997,
+      "archaea": 74,
+      "bacteria": 2946
+    },
+    {
+      "catalogue": "Mouse Gut",
+      "group": "Animals",
+      "genomeNum": 149412,
+      "archaea": 2,
+      "bacteria": 149410
+    },
+    {
+      "catalogue": "Cat Gut",
+      "group": "Domestic Animals",
+      "genomeNum": 8480,
+      "archaea": 0,
+      "bacteria": 8580
+    },
+    {
+      "catalogue": "Dog Gut",
+      "group": "Domestic Animals",
+      "genomeNum": 14575,
+      "archaea": 0,
+      "bacteria": 14691
+    },
+    {
+      "catalogue": "Acid Mine Drainage",
+      "group": "Environments",
+      "genomeNum": 7413,
+      "archaea": 1897,
+      "bacteria": 5516
+    },
+    {
+      "catalogue": "Agricultural Soil",
+      "group": "Environments",
+      "genomeNum": 2036,
+      "archaea": 104,
+      "bacteria": 2274
+    },
+    {
+      "catalogue": "Drinking Water",
+      "group": "Environments",
+      "genomeNum": 8719,
+      "archaea": 41,
+      "bacteria": 8716
+    },
+    {
+      "catalogue": "Groundwater",
+      "group": "Environments",
+      "genomeNum": 5549,
+      "archaea": 1198,
+      "bacteria": 4351
+    },
+    {
+      "catalogue": "Hot Spring",
+      "group": "Environments",
+      "genomeNum": 6276,
+      "archaea": 615,
+      "bacteria": 5661
+    },
+    {
+      "catalogue": "Hydrothermal Vent",
+      "group": "Environments",
+      "genomeNum": 8740,
+      "archaea": 1957,
+      "bacteria": 6783
+    },
+    {
+      "catalogue": "Permafrost",
+      "group": "Environments",
+      "genomeNum": 6031,
+      "archaea": 298,
+      "bacteria": 5733
+    },
+    {
+      "catalogue": "Saline Lake",
+      "group": "Environments",
+      "genomeNum": 10497,
+      "archaea": 1658,
+      "bacteria": 12812
+    },
+    {
+      "catalogue": "Wastewater",
+      "group": "Environments",
+      "genomeNum": 35340,
+      "archaea": 286,
+      "bacteria": 35054
+    },
+    {
+      "catalogue": "Wetlands Sediment",
+      "group": "Environments",
+      "genomeNum": 181,
+      "archaea": 42,
+      "bacteria": 363
+    },
+    {
+      "catalogue": "Acid Habitat",
+      "group": "Extreme Environments",
+      "genomeNum": 8428,
+      "archaea": 2158,
+      "bacteria": 6270
+    },
+    {
+      "catalogue": "Cold Habitat",
+      "group": "Extreme Environments",
+      "genomeNum": 12169,
+      "archaea": 598,
+      "bacteria": 11571
+    },
+    {
+      "catalogue": "Hot Habitat",
+      "group": "Extreme Environments",
+      "genomeNum": 7716,
+      "archaea": 1243,
+      "bacteria": 6473
+    },
+    {
+      "catalogue": "Pressure Habitat",
+      "group": "Extreme Environments",
+      "genomeNum": 9870,
+      "archaea": 2342,
+      "bacteria": 7528
+    },
+    {
+      "catalogue": "Saline-alkaline Habitat",
+      "group": "Extreme Environments",
+      "genomeNum": 8045,
+      "archaea": 1131,
+      "bacteria": 6914
+    },
+    {
+      "catalogue": "Atlantic salmon Gut",
+      "group": "Fish",
+      "genomeNum": 892,
+      "archaea": 0,
+      "bacteria": 939
+    },
+    {
+      "catalogue": "Zebrafish Gut",
+      "group": "Fish",
+      "genomeNum": 1441,
+      "archaea": 0,
+      "bacteria": 1441
+    },
+    {
+      "catalogue": "Freshwater Lake Water",
+      "group": "Freshwater",
+      "genomeNum": 26079,
+      "archaea": 29,
+      "bacteria": 26050
+    },
+    {
+      "catalogue": "Freshwater Riverine",
+      "group": "Freshwater",
+      "genomeNum": 3080,
+      "archaea": 23,
+      "bacteria": 3057
+    },
+    {
+      "catalogue": "Freshwater Sediment",
+      "group": "Freshwater",
+      "genomeNum": 6098,
+      "archaea": 973,
+      "bacteria": 9939
+    },
+    {
+      "catalogue": "Human Gut",
+      "group": "Human",
+      "genomeNum": 1658433,
+      "archaea": 5577,
+      "bacteria": 1652859
+    },
+    {
+      "catalogue": "Human Skin",
+      "group": "Human",
+      "genomeNum": 33824,
+      "archaea": 14,
+      "bacteria": 34434
+    },
+    {
+      "catalogue": "Human Vaginal",
+      "group": "Human",
+      "genomeNum": 6319,
+      "archaea": 0,
+      "bacteria": 6319
+    },
+    {
+      "catalogue": "Buffalo Gut",
+      "group": "Large Livestock",
+      "genomeNum": 24914,
+      "archaea": 364,
+      "bacteria": 24550
+    },
+    {
+      "catalogue": "Cattle Gut",
+      "group": "Large Livestock",
+      "genomeNum": 133323,
+      "archaea": 3136,
+      "bacteria": 130187
+    },
+    {
+      "catalogue": "Goat Gut",
+      "group": "Large Livestock",
+      "genomeNum": 72792,
+      "archaea": 1313,
+      "bacteria": 71479
+    },
+    {
+      "catalogue": "Pig Gut",
+      "group": "Large Livestock",
+      "genomeNum": 220512,
+      "archaea": 3576,
+      "bacteria": 216936
+    },
+    {
+      "catalogue": "Sheep Gut",
+      "group": "Large Livestock",
+      "genomeNum": 44671,
+      "archaea": 782,
+      "bacteria": 43889
+    },
+    {
+      "catalogue": "Marine Seawater",
+      "group": "Marine",
+      "genomeNum": 128151,
+      "archaea": 9657,
+      "bacteria": 118494
+    },
+    {
+      "catalogue": "Marine Sediment",
+      "group": "Marine",
+      "genomeNum": 9313,
+      "archaea": 1186,
+      "bacteria": 8127
+    },
+    {
+      "catalogue": "Arabidopsis Rhizosphere",
+      "group": "Plant Rhizosphere",
+      "genomeNum": 451,
+      "archaea": 3,
+      "bacteria": 449
+    },
+    {
+      "catalogue": "Bean Rhizosphere",
+      "group": "Plant Rhizosphere",
+      "genomeNum": 364,
+      "archaea": 52,
+      "bacteria": 312
+    },
+    {
+      "catalogue": "Rice Rhizosphere",
+      "group": "Plant Rhizosphere",
+      "genomeNum": 1450,
+      "archaea": 1,
+      "bacteria": 1449
+    },
+    {
+      "catalogue": "Wheat Rhizosphere",
+      "group": "Plant Rhizosphere",
+      "genomeNum": 521,
+      "archaea": 3,
+      "bacteria": 518
+    },
+    {
+      "catalogue": "Chicken Gut",
+      "group": "Poultry",
+      "genomeNum": 68765,
+      "archaea": 520,
+      "bacteria": 68257
+    },
+    {
+      "catalogue": "Duck Gut",
+      "group": "Poultry",
+      "genomeNum": 8208,
+      "archaea": 82,
+      "bacteria": 8126
+    },
+    {
+      "catalogue": "Bear Oral",
+      "group": "Wild Animals",
+      "genomeNum": 878,
+      "archaea": 0,
+      "bacteria": 878
+    },
+    {
+      "catalogue": "Deer Gut",
+      "group": "Wild Animals",
+      "genomeNum": 1269,
+      "archaea": 26,
+      "bacteria": 1409
+    },
+    {
+      "catalogue": "Dromedary Gut",
+      "group": "Wild Animals",
+      "genomeNum": 6995,
+      "archaea": 113,
+      "bacteria": 6882
+    },
+    {
+      "catalogue": "Elephant Gut",
+      "group": "Wild Animals",
+      "genomeNum": 734,
+      "archaea": 17,
+      "bacteria": 717
+    },
+    {
+      "catalogue": "Giant panda Gut",
+      "group": "Wild Animals",
+      "genomeNum": 2730,
+      "archaea": 0,
+      "bacteria": 2730
+    },
+    {
+      "catalogue": "Koala Gut",
+      "group": "Wild Animals",
+      "genomeNum": 1623,
+      "archaea": 2,
+      "bacteria": 1621
+    },
+    {
+      "catalogue": "Musk Gut",
+      "group": "Wild Animals",
+      "genomeNum": 2025,
+      "archaea": 38,
+      "bacteria": 1987
+    },
+    {
+      "catalogue": "Turkey Gut",
+      "group": "Wild Animals",
+      "genomeNum": 7280,
+      "archaea": 6,
+      "bacteria": 7274
+    },
+    {
+      "catalogue": "Vulture Gut",
+      "group": "Wild Animals",
+      "genomeNum": 59,
+      "archaea": 0,
+      "bacteria": 67
+    },
+    {
+      "catalogue": "Waterdeer Gut",
+      "group": "Wild Animals",
+      "genomeNum": 2992,
+      "archaea": 30,
+      "bacteria": 2962
+    }
+  ],
+  "catalogueTotals": {
+    "bacteria": 2755984,
+    "archaea": 43167,
+    "bacteriaPlusArchaea": 2799151
+  },
+  "speciesLevel": [
+    {
+      "catalogue": "Horse Gut",
+      "bacteria": {
+        "annotated": 469,
+        "novel": 905
+      },
+      "archaea": {
+        "annotated": 14,
+        "novel": 6
+      }
+    },
+    {
+      "catalogue": "Mouse Gut",
+      "bacteria": {
+        "annotated": 2301,
+        "novel": 45
+      },
+      "archaea": {
+        "annotated": 2,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Cat Gut",
+      "bacteria": {
+        "annotated": 387,
+        "novel": 114
+      },
+      "archaea": {
+        "annotated": 0,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Dog Gut",
+      "bacteria": {
+        "annotated": 348,
+        "novel": 108
+      },
+      "archaea": {
+        "annotated": 0,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Acid Mine Drainage",
+      "bacteria": {
+        "annotated": 1354,
+        "novel": 179
+      },
+      "archaea": {
+        "annotated": 294,
+        "novel": 31
+      }
+    },
+    {
+      "catalogue": "Agricultural Soil",
+      "bacteria": {
+        "annotated": 90,
+        "novel": 1036
+      },
+      "archaea": {
+        "annotated": 9,
+        "novel": 38
+      }
+    },
+    {
+      "catalogue": "Drinking Water",
+      "bacteria": {
+        "annotated": 811,
+        "novel": 2205
+      },
+      "archaea": {
+        "annotated": 4,
+        "novel": 23
+      }
+    },
+    {
+      "catalogue": "Groundwater",
+      "bacteria": {
+        "annotated": 880,
+        "novel": 682
+      },
+      "archaea": {
+        "annotated": 124,
+        "novel": 248
+      }
+    },
+    {
+      "catalogue": "Hot Spring",
+      "bacteria": {
+        "annotated": 498,
+        "novel": 2129
+      },
+      "archaea": {
+        "annotated": 106,
+        "novel": 245
+      }
+    },
+    {
+      "catalogue": "Hydrothermal Vent",
+      "bacteria": {
+        "annotated": 1539,
+        "novel": 2296
+      },
+      "archaea": {
+        "annotated": 438,
+        "novel": 490
+      }
+    },
+    {
+      "catalogue": "Permafrost",
+      "bacteria": {
+        "annotated": 735,
+        "novel": 1673
+      },
+      "archaea": {
+        "annotated": 36,
+        "novel": 44
+      }
+    },
+    {
+      "catalogue": "Saline Lake",
+      "bacteria": {
+        "annotated": 1000,
+        "novel": 2385
+      },
+      "archaea": {
+        "annotated": 95,
+        "novel": 253
+      }
+    },
+    {
+      "catalogue": "Wastewater",
+      "bacteria": {
+        "annotated": 1879,
+        "novel": 4402
+      },
+      "archaea": {
+        "annotated": 31,
+        "novel": 20
+      }
+    },
+    {
+      "catalogue": "Wetlands Sediment",
+      "bacteria": {
+        "annotated": 6,
+        "novel": 62
+      },
+      "archaea": {
+        "annotated": 1,
+        "novel": 8
+      }
+    },
+    {
+      "catalogue": "Acid Habitat",
+      "bacteria": {
+        "annotated": 1664,
+        "novel": 520
+      },
+      "archaea": {
+        "annotated": 413,
+        "novel": 83
+      }
+    },
+    {
+      "catalogue": "Cold Habitat",
+      "bacteria": {
+        "annotated": 923,
+        "novel": 3271
+      },
+      "archaea": {
+        "annotated": 67,
+        "novel": 114
+      }
+    },
+    {
+      "catalogue": "Hot Habitat",
+      "bacteria": {
+        "annotated": 1000,
+        "novel": 2251
+      },
+      "archaea": {
+        "annotated": 322,
+        "novel": 430
+      }
+    },
+    {
+      "catalogue": "Pressure Habitat",
+      "bacteria": {
+        "annotated": 1879,
+        "novel": 2429
+      },
+      "archaea": {
+        "annotated": 481,
+        "novel": 553
+      }
+    },
+    {
+      "catalogue": "Saline-alkaline Habitat",
+      "bacteria": {
+        "annotated": 936,
+        "novel": 2128
+      },
+      "archaea": {
+        "annotated": 150,
+        "novel": 273
+      }
+    },
+    {
+      "catalogue": "Atlantic salmon Gut",
+      "bacteria": {
+        "annotated": 25,
+        "novel": 15
+      },
+      "archaea": {
+        "annotated": 0,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Zebrafish Gut",
+      "bacteria": {
+        "annotated": 116,
+        "novel": 78
+      },
+      "archaea": {
+        "annotated": 0,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Freshwater Lake Water",
+      "bacteria": {
+        "annotated": 3030,
+        "novel": 4173
+      },
+      "archaea": {
+        "annotated": 10,
+        "novel": 1
+      }
+    },
+    {
+      "catalogue": "Freshwater Riverine",
+      "bacteria": {
+        "annotated": 456,
+        "novel": 924
+      },
+      "archaea": {
+        "annotated": 5,
+        "novel": 2
+      }
+    },
+    {
+      "catalogue": "Freshwater Sediment",
+      "bacteria": {
+        "annotated": 175,
+        "novel": 3028
+      },
+      "archaea": {
+        "annotated": 5,
+        "novel": 15
+      }
+    },
+    {
+      "catalogue": "Human Gut",
+      "bacteria": {
+        "annotated": 6478,
+        "novel": 4018
+      },
+      "archaea": {
+        "annotated": 32,
+        "novel": 14
+      }
+    },
+    {
+      "catalogue": "Human Skin",
+      "bacteria": {
+        "annotated": 1221,
+        "novel": 608
+      },
+      "archaea": {
+        "annotated": 1,
+        "novel": 3
+      }
+    },
+    {
+      "catalogue": "Human Vaginal",
+      "bacteria": {
+        "annotated": 339,
+        "novel": 33
+      },
+      "archaea": {
+        "annotated": 0,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Buffalo Gut",
+      "bacteria": {
+        "annotated": 2140,
+        "novel": 6030
+      },
+      "archaea": {
+        "annotated": 30,
+        "novel": 48
+      }
+    },
+    {
+      "catalogue": "Cattle Gut",
+      "bacteria": {
+        "annotated": 4979,
+        "novel": 8342
+      },
+      "archaea": {
+        "annotated": 82,
+        "novel": 86
+      }
+    },
+    {
+      "catalogue": "Goat Gut",
+      "bacteria": {
+        "annotated": 4200,
+        "novel": 7333
+      },
+      "archaea": {
+        "annotated": 70,
+        "novel": 51
+      }
+    },
+    {
+      "catalogue": "Pig Gut",
+      "bacteria": {
+        "annotated": 2625,
+        "novel": 2229
+      },
+      "archaea": {
+        "annotated": 19,
+        "novel": 7
+      }
+    },
+    {
+      "catalogue": "Sheep Gut",
+      "bacteria": {
+        "annotated": 4515,
+        "novel": 4000
+      },
+      "archaea": {
+        "annotated": 67,
+        "novel": 24
+      }
+    },
+    {
+      "catalogue": "Marine Seawater",
+      "bacteria": {
+        "annotated": 5345,
+        "novel": 7470
+      },
+      "archaea": {
+        "annotated": 476,
+        "novel": 616
+      }
+    },
+    {
+      "catalogue": "Marine Sediment",
+      "bacteria": {
+        "annotated": 1232,
+        "novel": 2612
+      },
+      "archaea": {
+        "annotated": 232,
+        "novel": 351
+      }
+    },
+    {
+      "catalogue": "Arabidopsis Rhizosphere",
+      "bacteria": {
+        "annotated": 30,
+        "novel": 78
+      },
+      "archaea": {
+        "annotated": 1,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Bean Rhizosphere",
+      "bacteria": {
+        "annotated": 20,
+        "novel": 38
+      },
+      "archaea": {
+        "annotated": 3,
+        "novel": 5
+      }
+    },
+    {
+      "catalogue": "Rice Rhizosphere",
+      "bacteria": {
+        "annotated": 33,
+        "novel": 192
+      },
+      "archaea": {
+        "annotated": 0,
+        "novel": 1
+      }
+    },
+    {
+      "catalogue": "Wheat Rhizosphere",
+      "bacteria": {
+        "annotated": 30,
+        "novel": 124
+      },
+      "archaea": {
+        "annotated": 0,
+        "novel": 2
+      }
+    },
+    {
+      "catalogue": "Chicken Gut",
+      "bacteria": {
+        "annotated": 3087,
+        "novel": 295
+      },
+      "archaea": {
+        "annotated": 11,
+        "novel": 2
+      }
+    },
+    {
+      "catalogue": "Duck Gut",
+      "bacteria": {
+        "annotated": 926,
+        "novel": 539
+      },
+      "archaea": {
+        "annotated": 6,
+        "novel": 1
+      }
+    },
+    {
+      "catalogue": "Bear Oral",
+      "bacteria": {
+        "annotated": 58,
+        "novel": 48
+      },
+      "archaea": {
+        "annotated": 0,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Deer Gut",
+      "bacteria": {
+        "annotated": 302,
+        "novel": 448
+      },
+      "archaea": {
+        "annotated": 5,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Dromedary Gut",
+      "bacteria": {
+        "annotated": 580,
+        "novel": 1312
+      },
+      "archaea": {
+        "annotated": 5,
+        "novel": 15
+      }
+    },
+    {
+      "catalogue": "Elephant Gut",
+      "bacteria": {
+        "annotated": 58,
+        "novel": 354
+      },
+      "archaea": {
+        "annotated": 3,
+        "novel": 10
+      }
+    },
+    {
+      "catalogue": "Giant panda Gut",
+      "bacteria": {
+        "annotated": 237,
+        "novel": 295
+      },
+      "archaea": {
+        "annotated": 0,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Koala Gut",
+      "bacteria": {
+        "annotated": 241,
+        "novel": 64
+      },
+      "archaea": {
+        "annotated": 1,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Musk Gut",
+      "bacteria": {
+        "annotated": 202,
+        "novel": 679
+      },
+      "archaea": {
+        "annotated": 2,
+        "novel": 3
+      }
+    },
+    {
+      "catalogue": "Turkey Gut",
+      "bacteria": {
+        "annotated": 973,
+        "novel": 139
+      },
+      "archaea": {
+        "annotated": 2,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Vulture Gut",
+      "bacteria": {
+        "annotated": 15,
+        "novel": 12
+      },
+      "archaea": {
+        "annotated": 0,
+        "novel": 0
+      }
+    },
+    {
+      "catalogue": "Waterdeer Gut",
+      "bacteria": {
+        "annotated": 636,
+        "novel": 153
+      },
+      "archaea": {
+        "annotated": 5,
+        "novel": 1
+      }
+    }
+  ],
+  "speciesLevelTotals": {
+    "annotatedBacteria": 63003,
+    "annotatedArchaea": 3660
+  }
+}
