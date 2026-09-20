@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380" font-family="Segoe UI,Arial,sans-serif">
+<text x="380" y="28" font-size="19" font-weight="bold" text-anchor="middle">Species-level genomes carrying each PHB-degradation KO (all 50 catalogues)</text>
+<rect x="109.2" y="73.31223594264657" width="68.26666666666667" height="246.68776405735343" rx="3" fill="#8e44ad" opacity="0.88"/>
+<text x="143.33333333333334" y="67.31223594264657" font-size="12" text-anchor="middle" fill="#333">7,920</text>
+<text x="143.33333333333334" y="338" font-size="12" text-anchor="middle">K05973</text>
+<rect x="215.86666666666667" y="161.49148075205207" width="68.26666666666667" height="158.50851924794793" rx="3" fill="#8e44ad" opacity="0.88"/>
+<text x="250" y="155.49148075205207" font-size="12" text-anchor="middle" fill="#333">319</text>
+<text x="250" y="338" font-size="12" text-anchor="middle">K22249</text>
+<rect x="322.53333333333336" y="161.49148075205207" width="68.26666666666667" height="158.50851924794793" rx="3" fill="#8e44ad" opacity="0.88"/>
+<text x="356.6666666666667" y="155.49148075205207" font-size="12" text-anchor="middle" fill="#333">319</text>
+<text x="356.6666666666667" y="338" font-size="12" text-anchor="middle">K22250</text>
+<rect x="429.2" y="140.29778039822995" width="68.26666666666667" height="179.70221960177005" rx="3" fill="#8e44ad" opacity="0.88"/>
+<text x="463.3333333333333" y="134.29778039822995" font-size="12" text-anchor="middle" fill="#333">691</text>
+<text x="463.3333333333333" y="338" font-size="12" text-anchor="middle">K07518</text>
+<rect x="535.8666666666668" y="60" width="68.26666666666667" height="260" rx="3" fill="#8e44ad" opacity="0.88"/>
+<text x="570.0000000000001" y="54" font-size="12" text-anchor="middle" fill="#333">12,857</text>
+<text x="570.0000000000001" y="338" font-size="12" text-anchor="middle">K00019</text>
+<rect x="642.5333333333334" y="73.0532737009759" width="68.26666666666667" height="246.9467262990241" rx="3" fill="#8e44ad" opacity="0.88"/>
+<text x="676.6666666666667" y="67.0532737009759" font-size="12" text-anchor="middle" fill="#333">7,995</text>
+<text x="676.6666666666667" y="338" font-size="12" text-anchor="middle">K01907</text>
+<text x="90" y="366" font-size="13" fill="#555">KO</text>
+<text x="16" y="190" font-size="13" fill="#555" text-anchor="middle" transform="rotate(-90 16 190)">species (log10)</text>
+</svg>

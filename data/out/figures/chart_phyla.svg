@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="468" viewBox="0 0 760 468" font-family="Segoe UI,Arial,sans-serif">
+<text x="380" y="28" font-size="19" font-weight="bold" text-anchor="middle">Top 12 phyla (GTDB) among PHB-degradation genomes</text>
+<text x="332" y="76" font-size="13" text-anchor="end">Pseudomonadota</text>
+<rect x="340" y="60" width="360" height="20" rx="3" fill="#1e8449" opacity="0.88"/>
+<text x="706" y="76" font-size="12" fill="#333">12,888</text>
+<text x="332" y="110" font-size="13" text-anchor="end">Actinomycetota</text>
+<rect x="340" y="94" width="49.385474860335194" height="20" rx="3" fill="#1e8449" opacity="0.88"/>
+<text x="395.3854748603352" y="110" font-size="12" fill="#333">1,768</text>
+<text x="332" y="144" font-size="13" text-anchor="end">Desulfobacterota</text>
+<rect x="340" y="128" width="17.262569832402235" height="20" rx="3" fill="#1e8449" opacity="0.88"/>
+<text x="363.2625698324022" y="144" font-size="12" fill="#333">618</text>
+<text x="332" y="178" font-size="13" text-anchor="end">Bacteroidota</text>
+<rect x="340" y="162" width="15.977653631284916" height="20" rx="3" fill="#1e8449" opacity="0.88"/>
+<text x="361.9776536312849" y="178" font-size="12" fill="#333">572</text>
+<text x="332" y="212" font-size="13" text-anchor="end">Chloroflexota</text>
+<rect x="340" y="196" width="10.335195530726258" height="20" rx="3" fill="#1e8449" opacity="0.88"/>
+<text x="356.33519553072625" y="212" font-size="12" fill="#333">370</text>
+<text x="332" y="246" font-size="13" text-anchor="end">Bacillota_A</text>
+<rect x="340" y="230" width="6.983240223463687" height="20" rx="3" fill="#1e8449" opacity="0.88"/>
+<text x="352.98324022346367" y="246" font-size="12" fill="#333">250</text>
+<text x="332" y="280" font-size="13" text-anchor="end">Gemmatimonadota</text>
+<rect x="340" y="264" width="6.70391061452514" height="20" rx="3" fill="#1e8449" opacity="0.88"/>
+<text x="352.7039106145251" y="280" font-size="12" fill="#333">240</text>
+<text x="332" y="314" font-size="13" text-anchor="end">Bacillota</text>
+<rect x="340" y="298" width="5.614525139664805" height="20" rx="3" fill="#1e8449" opacity="0.88"/>
+<text x="351.6145251396648" y="314" font-size="12" fill="#333">201</text>
+<text x="332" y="348" font-size="13" text-anchor="end">Myxococcota</text>
+<rect x="340" y="332" width="5.363128491620111" height="20" rx="3" fill="#1e8449" opacity="0.88"/>
+<text x="351.3631284916201" y="348" font-size="12" fill="#333">192</text>
+<text x="332" y="382" font-size="13" text-anchor="end">Acidobacteriota</text>
+<rect x="340" y="366" width="3.6871508379888267" height="20" rx="3" fill="#1e8449" opacity="0.88"/>
+<text x="349.68715083798884" y="382" font-size="12" fill="#333">132</text>
+<text x="332" y="416" font-size="13" text-anchor="end">Planctomycetota</text>
+<rect x="340" y="400" width="3.156424581005586" height="20" rx="3" fill="#1e8449" opacity="0.88"/>
+<text x="349.1564245810056" y="416" font-size="12" fill="#333">113</text>
+<text x="332" y="450" font-size="13" text-anchor="end">Halobacteriota</text>
+<rect x="340" y="434" width="2.7094972067039107" height="20" rx="3" fill="#1e8449" opacity="0.88"/>
+<text x="348.70949720670393" y="450" font-size="12" fill="#333">97</text>
+<text x="520" y="456" font-size="13" fill="#555" text-anchor="middle">genomes</text>
+</svg>

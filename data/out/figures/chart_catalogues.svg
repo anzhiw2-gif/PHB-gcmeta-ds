@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="570" viewBox="0 0 760 570" font-family="Segoe UI,Arial,sans-serif">
+<text x="380" y="28" font-size="19" font-weight="bold" text-anchor="middle">Top 15 biomes by PHB-degradation genome memberships</text>
+<text x="332" y="76" font-size="13" text-anchor="end">Marine Seawater</text>
+<rect x="340" y="60" width="360" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="706" y="76" font-size="12" fill="#333">3,281</text>
+<text x="332" y="110" font-size="13" text-anchor="end">Wastewater</text>
+<rect x="340" y="94" width="205.29106979579396" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="551.291069795794" y="110" font-size="12" fill="#333">1,871</text>
+<text x="332" y="144" font-size="13" text-anchor="end">Freshwater Lake Water</text>
+<rect x="340" y="128" width="201.12160926546784" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="547.1216092654679" y="144" font-size="12" fill="#333">1,833</text>
+<text x="332" y="178" font-size="13" text-anchor="end">Freshwater Sediment</text>
+<rect x="340" y="162" width="151.0880829015544" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="497.0880829015544" y="178" font-size="12" fill="#333">1,377</text>
+<text x="332" y="212" font-size="13" text-anchor="end">Drinking Water</text>
+<rect x="340" y="196" width="144.17555623285583" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="490.1755562328558" y="212" font-size="12" fill="#333">1,314</text>
+<text x="332" y="246" font-size="13" text-anchor="end">Cold Habitat</text>
+<rect x="340" y="230" width="126.61993294727216" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="472.61993294727216" y="246" font-size="12" fill="#333">1,154</text>
+<text x="332" y="280" font-size="13" text-anchor="end">Marine Sediment</text>
+<rect x="340" y="264" width="96.77537336177996" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="442.77537336177994" y="280" font-size="12" fill="#333">882</text>
+<text x="332" y="314" font-size="13" text-anchor="end">Saline Lake</text>
+<rect x="340" y="298" width="92.16702224931424" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="438.16702224931424" y="314" font-size="12" fill="#333">840</text>
+<text x="332" y="348" font-size="13" text-anchor="end">Saline-alkaline Habitat</text>
+<rect x="340" y="332" width="89.31423346540689" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="435.3142334654069" y="348" font-size="12" fill="#333">814</text>
+<text x="332" y="382" font-size="13" text-anchor="end">Pressure Habitat</text>
+<rect x="340" y="366" width="81.74337092349893" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="427.7433709234989" y="382" font-size="12" fill="#333">745</text>
+<text x="332" y="416" font-size="13" text-anchor="end">Hot Habitat</text>
+<rect x="340" y="400" width="70.44193843340445" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="416.44193843340446" y="416" font-size="12" fill="#333">642</text>
+<text x="332" y="450" font-size="13" text-anchor="end">Permafrost</text>
+<rect x="340" y="434" width="65.06552880219446" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="411.0655288021945" y="450" font-size="12" fill="#333">593</text>
+<text x="332" y="484" font-size="13" text-anchor="end">Hot Spring</text>
+<rect x="340" y="468" width="62.65163060042669" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="408.6516306004267" y="484" font-size="12" fill="#333">571</text>
+<text x="332" y="518" font-size="13" text-anchor="end">Acid Habitat</text>
+<rect x="340" y="502" width="57.71411155135629" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="403.71411155135627" y="518" font-size="12" fill="#333">526</text>
+<text x="332" y="552" font-size="13" text-anchor="end">Freshwater Riverine</text>
+<rect x="340" y="536" width="54.202986894239565" height="20" rx="3" fill="#2471a3" opacity="0.88"/>
+<text x="400.2029868942396" y="552" font-size="12" fill="#333">494</text>
+<text x="520" y="558" font-size="13" fill="#555" text-anchor="middle">catalogue memberships</text>
+</svg>

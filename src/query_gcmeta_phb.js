@@ -12,6 +12,7 @@
  *   3. genome-level records with quality metadata         (/function/genomeList, per catalogue)
  *
  * Raw JSON is cached under data/raw/ so re-runs resume automatically.
+ * Visualize results afterwards with src/make_visualizations.js.
  *
  * Usage:  node src/query_gcmeta_phb.js [--ko K05973] [--fresh]
  */

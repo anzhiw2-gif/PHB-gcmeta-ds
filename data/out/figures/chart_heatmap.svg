@@ -1,0 +1,611 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="900" viewBox="0 0 900 900" font-family="Segoe UI,Arial,sans-serif">
+<text x="450" y="26" font-size="18" font-weight="bold" text-anchor="middle">PHB-degradation KO x biome catalogue (species counts)</text>
+<text x="232" y="120" font-size="12" text-anchor="end">Acid Habitat</text>
+<rect x="240" y="110" width="129" height="14" fill="hsl(73.90490751086915, 79.68768732406477%, 59.90590657254792%)"/>
+<text x="305" y="120" font-size="10" text-anchor="middle" fill="#fff">146</text>
+<rect x="370" y="110" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="435" y="120" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="500" y="110" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="565" y="120" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="630" y="110" width="129" height="14" fill="hsl(138.4349754363956, 70.6834917995727%, 76.41359836745004%)"/>
+<text x="695" y="120" font-size="10" text-anchor="middle" fill="#333">14</text>
+<rect x="760" y="110" width="129" height="14" fill="hsl(48.97691718987659, 83.16601155490093%, 53.52897881601494%)"/>
+<text x="825" y="120" font-size="10" text-anchor="middle" fill="#fff">354</text>
+<rect x="890" y="110" width="129" height="14" fill="hsl(62.12239110893549, 81.33175938014854%, 56.891774469727686%)"/>
+<text x="955" y="120" font-size="10" text-anchor="middle" fill="#fff">222</text>
+<text x="232" y="135" font-size="12" text-anchor="end">Acid Mine Drainage</text>
+<rect x="240" y="125" width="129" height="14" fill="hsl(122.88345010639854, 72.85347207817695%, 72.43530119000893%)"/>
+<text x="305" y="135" font-size="10" text-anchor="middle" fill="#333">25</text>
+<rect x="370" y="125" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="500" y="125" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="630" y="125" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="695" y="135" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="760" y="125" width="129" height="14" fill="hsl(108.6591429769288, 74.8382591194983%, 68.79652494758643%)"/>
+<text x="825" y="135" font-size="10" text-anchor="middle" fill="#fff">42</text>
+<rect x="890" y="125" width="129" height="14" fill="hsl(105.54907461827152, 75.2722221462877%, 68.00092606513923%)"/>
+<text x="955" y="135" font-size="10" text-anchor="middle" fill="#fff">47</text>
+<text x="232" y="150" font-size="12" text-anchor="end">Agricultural Soil</text>
+<rect x="240" y="140" width="129" height="14" fill="hsl(84.51615018358041, 78.20704881159344%, 62.62041051207871%)"/>
+<text x="305" y="150" font-size="10" text-anchor="middle" fill="#fff">100</text>
+<rect x="370" y="140" width="129" height="14" fill="hsl(169.49617099086333, 66.34937148964697%, 84.35948560231388%)"/>
+<text x="435" y="150" font-size="10" text-anchor="middle" fill="#333">4</text>
+<rect x="500" y="140" width="129" height="14" fill="hsl(169.49617099086333, 66.34937148964697%, 84.35948560231388%)"/>
+<text x="565" y="150" font-size="10" text-anchor="middle" fill="#333">4</text>
+<rect x="630" y="140" width="129" height="14" fill="hsl(140.38561907585324, 70.41130896616001%, 76.91260022870665%)"/>
+<text x="695" y="150" font-size="10" text-anchor="middle" fill="#333">13</text>
+<rect x="760" y="140" width="129" height="14" fill="hsl(62.377105612068334, 81.29621782157186%, 56.95693399378492%)"/>
+<text x="825" y="150" font-size="10" text-anchor="middle" fill="#fff">220</text>
+<rect x="890" y="140" width="129" height="14" fill="hsl(60.28184212470785, 81.58858016864542%, 56.420936357483406%)"/>
+<text x="955" y="150" font-size="10" text-anchor="middle" fill="#fff">237</text>
+<text x="232" y="165" font-size="12" text-anchor="end">Arabidopsis Rhizosphere</text>
+<rect x="240" y="155" width="129" height="14" fill="hsl(106.14432015386888, 75.18916462969271%, 68.15319817889669%)"/>
+<text x="305" y="165" font-size="10" text-anchor="middle" fill="#fff">46</text>
+<rect x="370" y="155" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="435" y="165" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="500" y="155" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="565" y="165" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="630" y="155" width="129" height="14" fill="hsl(147.20402251478475, 69.45990383514632%, 78.65684296889842%)"/>
+<text x="695" y="165" font-size="10" text-anchor="middle" fill="#333">10</text>
+<rect x="760" y="155" width="129" height="14" fill="hsl(99.24011052276524, 76.15254271775369%, 66.38700501745157%)"/>
+<text x="825" y="165" font-size="10" text-anchor="middle" fill="#fff">59</text>
+<rect x="890" y="155" width="129" height="14" fill="hsl(115.2987905920394, 73.91179666157589%, 70.49503945377752%)"/>
+<text x="955" y="165" font-size="10" text-anchor="middle" fill="#fff">33</text>
+<text x="232" y="180" font-size="12" text-anchor="end">Atlantic salmon Gut</text>
+<rect x="240" y="170" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="305" y="180" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="370" y="170" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="435" y="180" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="500" y="170" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="565" y="180" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="630" y="170" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="170" width="129" height="14" fill="hsl(169.49617099086333, 66.34937148964697%, 84.35948560231388%)"/>
+<text x="825" y="180" font-size="10" text-anchor="middle" fill="#333">4</text>
+<rect x="890" y="170" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="955" y="180" font-size="10" text-anchor="middle" fill="#333">2</text>
+<text x="232" y="195" font-size="12" text-anchor="end">Bean Rhizosphere</text>
+<rect x="240" y="185" width="129" height="14" fill="hsl(133.2801764342493, 71.40276607894195%, 75.09492885527308%)"/>
+<text x="305" y="195" font-size="10" text-anchor="middle" fill="#333">17</text>
+<rect x="370" y="185" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="435" y="195" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="500" y="185" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="565" y="195" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="630" y="185" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="695" y="195" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="760" y="185" width="129" height="14" fill="hsl(127.60659005796956, 72.19442929423681%, 73.64354629389919%)"/>
+<text x="825" y="195" font-size="10" text-anchor="middle" fill="#333">21</text>
+<rect x="890" y="185" width="129" height="14" fill="hsl(136.61027017273926, 70.93810183636197%, 75.94681330000307%)"/>
+<text x="955" y="195" font-size="10" text-anchor="middle" fill="#333">15</text>
+<text x="232" y="210" font-size="12" text-anchor="end">Bear Oral</text>
+<rect x="240" y="200" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="305" y="210" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="370" y="200" width="129" height="14" fill="hsl(147.20402251478475, 69.45990383514632%, 78.65684296889842%)"/>
+<text x="435" y="210" font-size="10" text-anchor="middle" fill="#333">10</text>
+<rect x="500" y="200" width="129" height="14" fill="hsl(147.20402251478475, 69.45990383514632%, 78.65684296889842%)"/>
+<text x="565" y="210" font-size="10" text-anchor="middle" fill="#333">10</text>
+<rect x="630" y="200" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="695" y="210" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="760" y="200" width="129" height="14" fill="hsl(120.78818661903807, 73.1458344252505%, 71.89930355370741%)"/>
+<text x="825" y="210" font-size="10" text-anchor="middle" fill="#333">27</text>
+<rect x="890" y="200" width="129" height="14" fill="hsl(147.20402251478475, 69.45990383514632%, 78.65684296889842%)"/>
+<text x="955" y="210" font-size="10" text-anchor="middle" fill="#333">10</text>
+<text x="232" y="225" font-size="12" text-anchor="end">Buffalo Gut</text>
+<rect x="240" y="215" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="305" y="225" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="370" y="215" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="435" y="225" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="500" y="215" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="565" y="225" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="630" y="215" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="695" y="225" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="760" y="215" width="129" height="14" fill="hsl(133.2801764342493, 71.40276607894195%, 75.09492885527308%)"/>
+<text x="825" y="225" font-size="10" text-anchor="middle" fill="#333">17</text>
+<rect x="890" y="215" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="955" y="225" font-size="10" text-anchor="middle" fill="#333">8</text>
+<text x="232" y="240" font-size="12" text-anchor="end">Cat Gut</text>
+<rect x="240" y="230" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="370" y="230" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="500" y="230" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="630" y="230" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="230" width="129" height="14" fill="hsl(164.34137198871707, 67.06864576901623%, 83.04081609013693%)"/>
+<text x="825" y="240" font-size="10" text-anchor="middle" fill="#333">5</text>
+<rect x="890" y="230" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<text x="232" y="255" font-size="12" text-anchor="end">Cattle Gut</text>
+<rect x="240" y="245" width="129" height="14" fill="hsl(70.98379635396034, 80.09528422967995%, 59.15864557892009%)"/>
+<text x="305" y="255" font-size="10" text-anchor="middle" fill="#fff">162</text>
+<rect x="370" y="245" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="435" y="255" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="500" y="245" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="565" y="255" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="630" y="245" width="129" height="14" fill="hsl(130.301306077233, 71.81842240782795%, 74.33289225231542%)"/>
+<text x="695" y="255" font-size="10" text-anchor="middle" fill="#333">19</text>
+<rect x="760" y="245" width="129" height="14" fill="hsl(58.331198485250184, 81.86076300205812%, 55.9219344962268%)"/>
+<text x="825" y="255" font-size="10" text-anchor="middle" fill="#fff">254</text>
+<rect x="890" y="245" width="129" height="14" fill="hsl(79.40804502956951, 78.91980767029263%, 61.31368593779685%)"/>
+<text x="955" y="255" font-size="10" text-anchor="middle" fill="#fff">120</text>
+<text x="232" y="270" font-size="12" text-anchor="end">Chicken Gut</text>
+<rect x="240" y="260" width="129" height="14" fill="hsl(76.10392567840901, 79.38084757975687%, 60.46844610377905%)"/>
+<text x="305" y="270" font-size="10" text-anchor="middle" fill="#fff">135</text>
+<rect x="370" y="260" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="435" y="270" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="500" y="260" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="565" y="270" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="630" y="260" width="129" height="14" fill="hsl(134.89622304885458, 71.1772712024854%, 75.50833612877676%)"/>
+<text x="695" y="270" font-size="10" text-anchor="middle" fill="#333">16</text>
+<rect x="760" y="260" width="129" height="14" fill="hsl(61.99588924859253, 81.34941080252197%, 56.859413528709716%)"/>
+<text x="825" y="270" font-size="10" text-anchor="middle" fill="#fff">223</text>
+<rect x="890" y="260" width="129" height="14" fill="hsl(88.41172514433917, 77.6634802124178%, 63.61695294390072%)"/>
+<text x="955" y="270" font-size="10" text-anchor="middle" fill="#fff">87</text>
+<text x="232" y="285" font-size="12" text-anchor="end">Cold Habitat</text>
+<rect x="240" y="275" width="129" height="14" fill="hsl(43.55788151097698, 83.92215606823578%, 52.142713874901084%)"/>
+<text x="305" y="285" font-size="10" text-anchor="middle" fill="#fff">429</text>
+<rect x="370" y="275" width="129" height="14" fill="hsl(127.60659005796956, 72.19442929423681%, 73.64354629389919%)"/>
+<text x="435" y="285" font-size="10" text-anchor="middle" fill="#333">21</text>
+<rect x="500" y="275" width="129" height="14" fill="hsl(127.60659005796956, 72.19442929423681%, 73.64354629389919%)"/>
+<text x="565" y="285" font-size="10" text-anchor="middle" fill="#333">21</text>
+<rect x="630" y="275" width="129" height="14" fill="hsl(105.54907461827152, 75.2722221462877%, 68.00092606513923%)"/>
+<text x="695" y="285" font-size="10" text-anchor="middle" fill="#fff">47</text>
+<rect x="760" y="275" width="129" height="14" fill="hsl(28.5553660257834, 86.0155303219837%, 48.304861076363196%)"/>
+<text x="825" y="285" font-size="10" text-anchor="middle" fill="#fff">730</text>
+<rect x="890" y="275" width="129" height="14" fill="hsl(39.237158292675645, 84.52504768009177%, 51.03741258649842%)"/>
+<text x="955" y="285" font-size="10" text-anchor="middle" fill="#fff">500</text>
+<text x="232" y="300" font-size="12" text-anchor="end">Deer Gut</text>
+<rect x="240" y="290" width="129" height="14" fill="hsl(159.98305153266844, 67.67678350706952%, 81.92589690370588%)"/>
+<text x="305" y="300" font-size="10" text-anchor="middle" fill="#333">6</text>
+<rect x="370" y="290" width="129" height="14" fill="hsl(169.49617099086333, 66.34937148964697%, 84.35948560231388%)"/>
+<text x="435" y="300" font-size="10" text-anchor="middle" fill="#333">4</text>
+<rect x="500" y="290" width="129" height="14" fill="hsl(169.49617099086333, 66.34937148964697%, 84.35948560231388%)"/>
+<text x="565" y="300" font-size="10" text-anchor="middle" fill="#333">4</text>
+<rect x="630" y="290" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="695" y="300" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="760" y="290" width="129" height="14" fill="hsl(131.75152747384246, 71.61606593388245%, 74.70387912121552%)"/>
+<text x="825" y="300" font-size="10" text-anchor="middle" fill="#333">18</text>
+<rect x="890" y="290" width="129" height="14" fill="hsl(149.89873853404816, 69.08389694873746%, 79.34618892731464%)"/>
+<text x="955" y="300" font-size="10" text-anchor="middle" fill="#333">9</text>
+<text x="232" y="315" font-size="12" text-anchor="end">Dog Gut</text>
+<rect x="240" y="305" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="305" y="315" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="370" y="305" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="435" y="315" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="500" y="305" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="565" y="315" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="630" y="305" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="305" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="825" y="315" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="890" y="305" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<text x="232" y="330" font-size="12" text-anchor="end">Drinking Water</text>
+<rect x="240" y="320" width="129" height="14" fill="hsl(24.625729598618506, 86.5638516839137%, 47.29960524615822%)"/>
+<text x="305" y="330" font-size="10" text-anchor="middle" fill="#fff">839</text>
+<rect x="370" y="320" width="129" height="14" fill="hsl(126.34980010195392, 72.36979533461108%, 73.32204188654634%)"/>
+<text x="435" y="330" font-size="10" text-anchor="middle" fill="#333">22</text>
+<rect x="500" y="320" width="129" height="14" fill="hsl(126.34980010195392, 72.36979533461108%, 73.32204188654634%)"/>
+<text x="565" y="330" font-size="10" text-anchor="middle" fill="#333">22</text>
+<rect x="630" y="320" width="129" height="14" fill="hsl(95.70135813522421, 76.64632212066638%, 65.48174277877828%)"/>
+<text x="695" y="330" font-size="10" text-anchor="middle" fill="#fff">67</text>
+<rect x="760" y="320" width="129" height="14" fill="hsl(17.1819943411995, 87.60251241750704%, 45.39539390123708%)"/>
+<text x="825" y="330" font-size="10" text-anchor="middle" fill="#fff">1,092</text>
+<rect x="890" y="320" width="129" height="14" fill="hsl(48.037003978271116, 83.29716223559008%, 53.28853590141819%)"/>
+<text x="955" y="330" font-size="10" text-anchor="middle" fill="#fff">366</text>
+<text x="232" y="345" font-size="12" text-anchor="end">Dromedary Gut</text>
+<rect x="240" y="335" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="370" y="335" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="500" y="335" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="630" y="335" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="335" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="825" y="345" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="890" y="335" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<text x="232" y="360" font-size="12" text-anchor="end">Duck Gut</text>
+<rect x="240" y="350" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="370" y="350" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="500" y="350" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="630" y="350" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="350" width="129" height="14" fill="hsl(164.34137198871707, 67.06864576901623%, 83.04081609013693%)"/>
+<text x="825" y="360" font-size="10" text-anchor="middle" fill="#333">5</text>
+<rect x="890" y="350" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="955" y="360" font-size="10" text-anchor="middle" fill="#333">2</text>
+<text x="232" y="375" font-size="12" text-anchor="end">Elephant Gut</text>
+<rect x="240" y="365" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="305" y="375" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="370" y="365" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="435" y="375" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="500" y="365" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="565" y="375" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="630" y="365" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="365" width="129" height="14" fill="hsl(156.20770262955443, 68.20357637727147%, 80.9601099750023%)"/>
+<text x="825" y="375" font-size="10" text-anchor="middle" fill="#333">7</text>
+<rect x="890" y="365" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<text x="232" y="390" font-size="12" text-anchor="end">Freshwater Lake Water</text>
+<rect x="240" y="380" width="129" height="14" fill="hsl(19.2752680950274, 87.3104277076706%, 45.930882535937236%)"/>
+<text x="305" y="390" font-size="10" text-anchor="middle" fill="#fff">1,014</text>
+<rect x="370" y="380" width="129" height="14" fill="hsl(159.98305153266844, 67.67678350706952%, 81.92589690370588%)"/>
+<text x="435" y="390" font-size="10" text-anchor="middle" fill="#333">6</text>
+<rect x="500" y="380" width="129" height="14" fill="hsl(159.98305153266844, 67.67678350706952%, 81.92589690370588%)"/>
+<text x="565" y="390" font-size="10" text-anchor="middle" fill="#333">6</text>
+<rect x="630" y="380" width="129" height="14" fill="hsl(128.9218559782007, 72.01090381699525%, 73.98000966884203%)"/>
+<text x="695" y="390" font-size="10" text-anchor="middle" fill="#333">20</text>
+<rect x="760" y="380" width="129" height="14" fill="hsl(10.406119390601503, 88.5479833408463%, 43.662030541781775%)"/>
+<text x="825" y="390" font-size="10" text-anchor="middle" fill="#fff">1,388</text>
+<rect x="890" y="380" width="129" height="14" fill="hsl(35.14614047639992, 85.09588737538606%, 49.99087314512556%)"/>
+<text x="955" y="390" font-size="10" text-anchor="middle" fill="#fff">578</text>
+<text x="232" y="405" font-size="12" text-anchor="end">Freshwater Riverine</text>
+<rect x="240" y="395" width="129" height="14" fill="hsl(57.67365446256011, 81.95251333080557%, 55.75372556018979%)"/>
+<text x="305" y="405" font-size="10" text-anchor="middle" fill="#fff">260</text>
+<rect x="370" y="395" width="129" height="14" fill="hsl(149.89873853404816, 69.08389694873746%, 79.34618892731464%)"/>
+<text x="435" y="405" font-size="10" text-anchor="middle" fill="#333">9</text>
+<rect x="500" y="395" width="129" height="14" fill="hsl(149.89873853404816, 69.08389694873746%, 79.34618892731464%)"/>
+<text x="565" y="405" font-size="10" text-anchor="middle" fill="#333">9</text>
+<rect x="630" y="395" width="129" height="14" fill="hsl(128.9218559782007, 72.01090381699525%, 73.98000966884203%)"/>
+<text x="695" y="405" font-size="10" text-anchor="middle" fill="#333">20</text>
+<rect x="760" y="395" width="129" height="14" fill="hsl(46.97852833453612, 83.44485651146007%, 53.01776306232319%)"/>
+<text x="825" y="405" font-size="10" text-anchor="middle" fill="#fff">380</text>
+<rect x="890" y="395" width="129" height="14" fill="hsl(70.98379635396034, 80.09528422967995%, 59.15864557892009%)"/>
+<text x="955" y="405" font-size="10" text-anchor="middle" fill="#fff">162</text>
+<text x="232" y="420" font-size="12" text-anchor="end">Freshwater Sediment</text>
+<rect x="240" y="410" width="129" height="14" fill="hsl(28.01900351673973, 86.09037160231539%, 48.167652062421794%)"/>
+<text x="305" y="420" font-size="10" text-anchor="middle" fill="#fff">744</text>
+<rect x="370" y="410" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="435" y="420" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="500" y="410" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="565" y="420" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="630" y="410" width="129" height="14" fill="hsl(86.84927687492245, 77.88149625001083%, 63.217256874980166%)"/>
+<text x="695" y="420" font-size="10" text-anchor="middle" fill="#fff">92</text>
+<rect x="760" y="410" width="129" height="14" fill="hsl(17.546477897858864, 87.55165424681039%, 45.488633880847615%)"/>
+<text x="825" y="420" font-size="10" text-anchor="middle" fill="#fff">1,078</text>
+<rect x="890" y="410" width="129" height="14" fill="hsl(43.10132757579635, 83.98586126849354%, 52.02592100776185%)"/>
+<text x="955" y="420" font-size="10" text-anchor="middle" fill="#fff">436</text>
+<text x="232" y="435" font-size="12" text-anchor="end">Giant panda Gut</text>
+<rect x="240" y="425" width="129" height="14" fill="hsl(112.15409501702727, 74.35059139297294%, 69.69058244621628%)"/>
+<text x="305" y="435" font-size="10" text-anchor="middle" fill="#fff">37</text>
+<rect x="370" y="425" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="435" y="435" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="500" y="425" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="565" y="435" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="630" y="425" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="695" y="435" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="760" y="425" width="129" height="14" fill="hsl(88.09225147829595, 77.70805793326103%, 63.535227122354776%)"/>
+<text x="825" y="435" font-size="10" text-anchor="middle" fill="#fff">88</text>
+<rect x="890" y="425" width="129" height="14" fill="hsl(123.9923419817267, 72.69874297929395%, 72.71897120462776%)"/>
+<text x="955" y="435" font-size="10" text-anchor="middle" fill="#333">24</text>
+<text x="232" y="450" font-size="12" text-anchor="end">Goat Gut</text>
+<rect x="240" y="440" width="129" height="14" fill="hsl(138.4349754363956, 70.6834917995727%, 76.41359836745004%)"/>
+<text x="305" y="450" font-size="10" text-anchor="middle" fill="#333">14</text>
+<rect x="370" y="440" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="435" y="450" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="500" y="440" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="565" y="450" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="630" y="440" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="440" width="129" height="14" fill="hsl(109.32442352138551, 74.74542927608574%, 68.9667129938428%)"/>
+<text x="825" y="450" font-size="10" text-anchor="middle" fill="#fff">41</text>
+<rect x="890" y="440" width="129" height="14" fill="hsl(131.75152747384246, 71.61606593388245%, 74.70387912121552%)"/>
+<text x="955" y="450" font-size="10" text-anchor="middle" fill="#333">18</text>
+<text x="232" y="465" font-size="12" text-anchor="end">Groundwater</text>
+<rect x="240" y="455" width="129" height="14" fill="hsl(112.90808953015811, 74.24538285625701%, 69.88346476352882%)"/>
+<text x="305" y="465" font-size="10" text-anchor="middle" fill="#fff">36</text>
+<rect x="370" y="455" width="129" height="14" fill="hsl(144.74393953190187, 69.80317122810672%, 78.02751941513769%)"/>
+<text x="435" y="465" font-size="10" text-anchor="middle" fill="#333">11</text>
+<rect x="500" y="455" width="129" height="14" fill="hsl(144.74393953190187, 69.80317122810672%, 78.02751941513769%)"/>
+<text x="565" y="465" font-size="10" text-anchor="middle" fill="#333">11</text>
+<rect x="630" y="455" width="129" height="14" fill="hsl(149.89873853404816, 69.08389694873746%, 79.34618892731464%)"/>
+<text x="695" y="465" font-size="10" text-anchor="middle" fill="#333">9</text>
+<rect x="760" y="455" width="129" height="14" fill="hsl(96.5453945035018, 76.52854960416254%, 65.69765905903535%)"/>
+<text x="825" y="465" font-size="10" text-anchor="middle" fill="#fff">65</text>
+<rect x="890" y="455" width="129" height="14" fill="hsl(98.31303997257503, 76.28190139917558%, 66.14984743484477%)"/>
+<text x="955" y="465" font-size="10" text-anchor="middle" fill="#fff">61</text>
+<text x="232" y="480" font-size="12" text-anchor="end">Horse Gut</text>
+<rect x="240" y="470" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="370" y="470" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="435" y="480" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="500" y="470" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="565" y="480" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="630" y="470" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="470" width="129" height="14" fill="hsl(156.20770262955443, 68.20357637727147%, 80.9601099750023%)"/>
+<text x="825" y="480" font-size="10" text-anchor="middle" fill="#333">7</text>
+<rect x="890" y="470" width="129" height="14" fill="hsl(164.34137198871707, 67.06864576901623%, 83.04081609013693%)"/>
+<text x="955" y="480" font-size="10" text-anchor="middle" fill="#333">5</text>
+<text x="232" y="495" font-size="12" text-anchor="end">Hot Habitat</text>
+<rect x="240" y="485" width="129" height="14" fill="hsl(74.88331374219806, 79.55116552434446%, 60.15619653870183%)"/>
+<text x="305" y="495" font-size="10" text-anchor="middle" fill="#fff">141</text>
+<rect x="370" y="485" width="129" height="14" fill="hsl(156.20770262955443, 68.20357637727147%, 80.9601099750023%)"/>
+<text x="435" y="495" font-size="10" text-anchor="middle" fill="#333">7</text>
+<rect x="500" y="485" width="129" height="14" fill="hsl(156.20770262955443, 68.20357637727147%, 80.9601099750023%)"/>
+<text x="565" y="495" font-size="10" text-anchor="middle" fill="#333">7</text>
+<rect x="630" y="485" width="129" height="14" fill="hsl(140.38561907585324, 70.41130896616001%, 76.91260022870665%)"/>
+<text x="695" y="495" font-size="10" text-anchor="middle" fill="#333">13</text>
+<rect x="760" y="485" width="129" height="14" fill="hsl(50.03170390809177, 83.0188320128244%, 53.7988079764886%)"/>
+<text x="825" y="495" font-size="10" text-anchor="middle" fill="#fff">341</text>
+<rect x="890" y="485" width="129" height="14" fill="hsl(48.34684947510175, 83.25392798021836%, 53.367798702933%)"/>
+<text x="955" y="495" font-size="10" text-anchor="middle" fill="#fff">362</text>
+<text x="232" y="510" font-size="12" text-anchor="end">Hot Spring</text>
+<rect x="240" y="500" width="129" height="14" fill="hsl(96.1202268129871, 76.58787532842041%, 65.58889523122926%)"/>
+<text x="305" y="510" font-size="10" text-anchor="middle" fill="#fff">66</text>
+<rect x="370" y="500" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="435" y="510" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="500" y="500" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="565" y="510" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="630" y="500" width="129" height="14" fill="hsl(169.49617099086333, 66.34937148964697%, 84.35948560231388%)"/>
+<text x="695" y="510" font-size="10" text-anchor="middle" fill="#333">4</text>
+<rect x="760" y="500" width="129" height="14" fill="hsl(79.87927458152302, 78.85405470955493%, 61.43423303248263%)"/>
+<text x="825" y="510" font-size="10" text-anchor="middle" fill="#fff">118</text>
+<rect x="890" y="500" width="129" height="14" fill="hsl(90.06559533464515, 77.43270762772393%, 64.04003601583946%)"/>
+<text x="955" y="510" font-size="10" text-anchor="middle" fill="#fff">82</text>
+<text x="232" y="525" font-size="12" text-anchor="end">Human Gut</text>
+<rect x="240" y="515" width="129" height="14" fill="hsl(85.95164216145633, 78.0067476053782%, 62.98762939013999%)"/>
+<text x="305" y="525" font-size="10" text-anchor="middle" fill="#fff">95</text>
+<rect x="370" y="515" width="129" height="14" fill="hsl(120.78818661903807, 73.1458344252505%, 71.89930355370741%)"/>
+<text x="435" y="525" font-size="10" text-anchor="middle" fill="#333">27</text>
+<rect x="500" y="515" width="129" height="14" fill="hsl(120.78818661903807, 73.1458344252505%, 71.89930355370741%)"/>
+<text x="565" y="525" font-size="10" text-anchor="middle" fill="#333">27</text>
+<rect x="630" y="515" width="129" height="14" fill="hsl(142.48088256321373, 70.11894661908646%, 77.44859786500817%)"/>
+<text x="695" y="525" font-size="10" text-anchor="middle" fill="#333">12</text>
+<rect x="760" y="515" width="129" height="14" fill="hsl(55.48569214258595, 82.25781039870894%, 55.194014269033616%)"/>
+<text x="825" y="525" font-size="10" text-anchor="middle" fill="#fff">281</text>
+<rect x="890" y="515" width="129" height="14" fill="hsl(86.24769846470582, 77.96543742352942%, 63.063364723529396%)"/>
+<text x="955" y="525" font-size="10" text-anchor="middle" fill="#fff">94</text>
+<text x="232" y="540" font-size="12" text-anchor="end">Human Skin</text>
+<rect x="240" y="530" width="129" height="14" fill="hsl(62.377105612068334, 81.29621782157186%, 56.95693399378492%)"/>
+<text x="305" y="540" font-size="10" text-anchor="middle" fill="#fff">220</text>
+<rect x="370" y="530" width="129" height="14" fill="hsl(118.83754297958043, 73.4180172586632%, 71.40030169245081%)"/>
+<text x="435" y="540" font-size="10" text-anchor="middle" fill="#333">29</text>
+<rect x="500" y="530" width="129" height="14" fill="hsl(118.83754297958043, 73.4180172586632%, 71.40030169245081%)"/>
+<text x="565" y="540" font-size="10" text-anchor="middle" fill="#333">29</text>
+<rect x="630" y="530" width="129" height="14" fill="hsl(121.81641333659675, 73.0023609297772%, 72.16233829540847%)"/>
+<text x="695" y="540" font-size="10" text-anchor="middle" fill="#333">26</text>
+<rect x="760" y="530" width="129" height="14" fill="hsl(45.18166464734884, 83.69558167711412%, 52.558100258624115%)"/>
+<text x="825" y="540" font-size="10" text-anchor="middle" fill="#fff">405</text>
+<rect x="890" y="530" width="129" height="14" fill="hsl(77.8179728022937, 79.14167821363344%, 60.90692327500536%)"/>
+<text x="955" y="540" font-size="10" text-anchor="middle" fill="#fff">127</text>
+<text x="232" y="555" font-size="12" text-anchor="end">Human Vaginal</text>
+<rect x="240" y="545" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="305" y="555" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="370" y="545" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="435" y="555" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="500" y="545" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="565" y="555" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="630" y="545" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="545" width="129" height="14" fill="hsl(134.89622304885458, 71.1772712024854%, 75.50833612877676%)"/>
+<text x="825" y="555" font-size="10" text-anchor="middle" fill="#333">16</text>
+<rect x="890" y="545" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="955" y="555" font-size="10" text-anchor="middle" fill="#333">2</text>
+<text x="232" y="570" font-size="12" text-anchor="end">Hydrothermal Vent</text>
+<rect x="240" y="560" width="129" height="14" fill="hsl(105.54907461827152, 75.2722221462877%, 68.00092606513923%)"/>
+<text x="305" y="570" font-size="10" text-anchor="middle" fill="#fff">47</text>
+<rect x="370" y="560" width="129" height="14" fill="hsl(175.80513508636963, 65.46905091818098%, 85.97340665000154%)"/>
+<text x="435" y="570" font-size="10" text-anchor="middle" fill="#333">3</text>
+<rect x="500" y="560" width="129" height="14" fill="hsl(175.80513508636963, 65.46905091818098%, 85.97340665000154%)"/>
+<text x="565" y="570" font-size="10" text-anchor="middle" fill="#333">3</text>
+<rect x="630" y="560" width="129" height="14" fill="hsl(169.49617099086333, 66.34937148964697%, 84.35948560231388%)"/>
+<text x="695" y="570" font-size="10" text-anchor="middle" fill="#333">4</text>
+<rect x="760" y="560" width="129" height="14" fill="hsl(87.77634742511269, 77.75213756858892%, 63.454414457586964%)"/>
+<text x="825" y="570" font-size="10" text-anchor="middle" fill="#fff">89</text>
+<rect x="890" y="560" width="129" height="14" fill="hsl(73.14585202598585, 79.7936020428857%, 59.71172958804289%)"/>
+<text x="955" y="570" font-size="10" text-anchor="middle" fill="#fff">150</text>
+<text x="232" y="585" font-size="12" text-anchor="end">Koala Gut</text>
+<rect x="240" y="575" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="370" y="575" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="500" y="575" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="630" y="575" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="575" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="825" y="585" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="890" y="575" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<text x="232" y="600" font-size="12" text-anchor="end">Marine Seawater</text>
+<rect x="240" y="590" width="129" height="14" fill="hsl(10.836838994461402, 88.48788293100539%, 43.772214626490126%)"/>
+<text x="305" y="600" font-size="10" text-anchor="middle" fill="#fff">1,367</text>
+<rect x="370" y="590" width="129" height="14" fill="hsl(103.28601764958337, 75.58799753726744%, 67.42200451500969%)"/>
+<text x="435" y="600" font-size="10" text-anchor="middle" fill="#fff">51</text>
+<rect x="500" y="590" width="129" height="14" fill="hsl(103.28601764958337, 75.58799753726744%, 67.42200451500969%)"/>
+<text x="565" y="600" font-size="10" text-anchor="middle" fill="#fff">51</text>
+<rect x="630" y="590" width="129" height="14" fill="hsl(102.74746577368755, 75.66314431064825%, 67.28423543047822%)"/>
+<text x="695" y="600" font-size="10" text-anchor="middle" fill="#fff">52</text>
+<rect x="760" y="590" width="129" height="14" fill="hsl(0, 90%, 41%)"/>
+<text x="825" y="600" font-size="10" text-anchor="middle" fill="#fff">2,006</text>
+<rect x="890" y="590" width="129" height="14" fill="hsl(5.247928089138668, 89.26773096430622%, 42.34249323210524%)"/>
+<text x="955" y="600" font-size="10" text-anchor="middle" fill="#fff">1,666</text>
+<text x="232" y="615" font-size="12" text-anchor="end">Marine Sediment</text>
+<rect x="240" y="605" width="129" height="14" fill="hsl(76.94796204668663, 79.26307506325303%, 60.68436238403611%)"/>
+<text x="305" y="615" font-size="10" text-anchor="middle" fill="#fff">131</text>
+<rect x="370" y="605" width="129" height="14" fill="hsl(169.49617099086333, 66.34937148964697%, 84.35948560231388%)"/>
+<text x="435" y="615" font-size="10" text-anchor="middle" fill="#333">4</text>
+<rect x="500" y="605" width="129" height="14" fill="hsl(169.49617099086333, 66.34937148964697%, 84.35948560231388%)"/>
+<text x="565" y="615" font-size="10" text-anchor="middle" fill="#333">4</text>
+<rect x="630" y="605" width="129" height="14" fill="hsl(138.4349754363956, 70.6834917995727%, 76.41359836745004%)"/>
+<text x="695" y="615" font-size="10" text-anchor="middle" fill="#333">14</text>
+<rect x="760" y="605" width="129" height="14" fill="hsl(49.78477553834952, 83.05328713418379%, 53.73564025399639%)"/>
+<text x="825" y="615" font-size="10" text-anchor="middle" fill="#fff">344</text>
+<rect x="890" y="605" width="129" height="14" fill="hsl(31.2732979641996, 85.6362840049954%, 49.00014599084176%)"/>
+<text x="955" y="615" font-size="10" text-anchor="middle" fill="#fff">663</text>
+<text x="232" y="630" font-size="12" text-anchor="end">Mouse Gut</text>
+<rect x="240" y="620" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="305" y="630" font-size="10" text-anchor="middle" fill="#333">8</text>
+<rect x="370" y="620" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="435" y="630" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="500" y="620" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="565" y="630" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="630" y="620" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="695" y="630" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="760" y="620" width="129" height="14" fill="hsl(111.41968700874598, 74.45306692901218%, 69.50271063014432%)"/>
+<text x="825" y="630" font-size="10" text-anchor="middle" fill="#fff">38</text>
+<rect x="890" y="620" width="129" height="14" fill="hsl(159.98305153266844, 67.67678350706952%, 81.92589690370588%)"/>
+<text x="955" y="630" font-size="10" text-anchor="middle" fill="#333">6</text>
+<text x="232" y="645" font-size="12" text-anchor="end">Musk Gut</text>
+<rect x="240" y="635" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="370" y="635" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="500" y="635" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="630" y="635" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="635" width="129" height="14" fill="hsl(175.80513508636963, 65.46905091818098%, 85.97340665000154%)"/>
+<text x="825" y="645" font-size="10" text-anchor="middle" fill="#333">3</text>
+<rect x="890" y="635" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="955" y="645" font-size="10" text-anchor="middle" fill="#333">1</text>
+<text x="232" y="660" font-size="12" text-anchor="end">Permafrost</text>
+<rect x="240" y="650" width="129" height="14" fill="hsl(84.23759503757165, 78.24591697150163%, 62.54915221891368%)"/>
+<text x="305" y="660" font-size="10" text-anchor="middle" fill="#fff">101</text>
+<rect x="370" y="650" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="500" y="650" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="630" y="650" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="695" y="660" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="760" y="650" width="129" height="14" fill="hsl(62.377105612068334, 81.29621782157186%, 56.95693399378492%)"/>
+<text x="825" y="660" font-size="10" text-anchor="middle" fill="#fff">220</text>
+<rect x="890" y="650" width="129" height="14" fill="hsl(68.33642578581589, 80.4646847740722%, 58.4814112475343%)"/>
+<text x="955" y="660" font-size="10" text-anchor="middle" fill="#fff">178</text>
+<text x="232" y="675" font-size="12" text-anchor="end">Pig Gut</text>
+<rect x="240" y="665" width="129" height="14" fill="hsl(134.89622304885458, 71.1772712024854%, 75.50833612877676%)"/>
+<text x="305" y="675" font-size="10" text-anchor="middle" fill="#333">16</text>
+<rect x="370" y="665" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="435" y="675" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="500" y="665" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="565" y="675" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="630" y="665" width="129" height="14" fill="hsl(175.80513508636963, 65.46905091818098%, 85.97340665000154%)"/>
+<text x="695" y="675" font-size="10" text-anchor="middle" fill="#333">3</text>
+<rect x="760" y="665" width="129" height="14" fill="hsl(94.08531152061894, 76.87181699712293%, 65.06833550527462%)"/>
+<text x="825" y="675" font-size="10" text-anchor="middle" fill="#fff">71</text>
+<rect x="890" y="665" width="129" height="14" fill="hsl(140.38561907585324, 70.41130896616001%, 76.91260022870665%)"/>
+<text x="955" y="675" font-size="10" text-anchor="middle" fill="#333">13</text>
+<text x="232" y="690" font-size="12" text-anchor="end">Pressure Habitat</text>
+<rect x="240" y="680" width="129" height="14" fill="hsl(67.55750273150838, 80.57337171188256%, 58.282151861548655%)"/>
+<text x="305" y="690" font-size="10" text-anchor="middle" fill="#fff">183</text>
+<rect x="370" y="680" width="129" height="14" fill="hsl(175.80513508636963, 65.46905091818098%, 85.97340665000154%)"/>
+<text x="435" y="690" font-size="10" text-anchor="middle" fill="#333">3</text>
+<rect x="500" y="680" width="129" height="14" fill="hsl(175.80513508636963, 65.46905091818098%, 85.97340665000154%)"/>
+<text x="565" y="690" font-size="10" text-anchor="middle" fill="#333">3</text>
+<rect x="630" y="680" width="129" height="14" fill="hsl(147.20402251478475, 69.45990383514632%, 78.65684296889842%)"/>
+<text x="695" y="690" font-size="10" text-anchor="middle" fill="#333">10</text>
+<rect x="760" y="680" width="129" height="14" fill="hsl(52.9922091338228, 82.60573826039682%, 54.556146522605836%)"/>
+<text x="825" y="690" font-size="10" text-anchor="middle" fill="#fff">307</text>
+<rect x="890" y="680" width="129" height="14" fill="hsl(43.822118187730325, 83.88528583427018%, 52.21030930383799%)"/>
+<text x="955" y="690" font-size="10" text-anchor="middle" fill="#fff">425</text>
+<text x="232" y="705" font-size="12" text-anchor="end">Rice Rhizosphere</text>
+<rect x="240" y="695" width="129" height="14" fill="hsl(101.7001935056481, 75.80927532479329%, 67.01632857121231%)"/>
+<text x="305" y="705" font-size="10" text-anchor="middle" fill="#fff">54</text>
+<rect x="370" y="695" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="435" y="705" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="500" y="695" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="565" y="705" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="630" y="695" width="129" height="14" fill="hsl(156.20770262955443, 68.20357637727147%, 80.9601099750023%)"/>
+<text x="695" y="705" font-size="10" text-anchor="middle" fill="#333">7</text>
+<rect x="760" y="695" width="129" height="14" fill="hsl(98.31303997257503, 76.28190139917558%, 66.14984743484477%)"/>
+<text x="825" y="705" font-size="10" text-anchor="middle" fill="#fff">61</text>
+<rect x="890" y="695" width="129" height="14" fill="hsl(112.15409501702727, 74.35059139297294%, 69.69058244621628%)"/>
+<text x="955" y="705" font-size="10" text-anchor="middle" fill="#fff">37</text>
+<text x="232" y="720" font-size="12" text-anchor="end">Saline Lake</text>
+<rect x="240" y="710" width="129" height="14" fill="hsl(70.81087154199193, 80.11941327321043%, 59.11440899911421%)"/>
+<text x="305" y="720" font-size="10" text-anchor="middle" fill="#fff">163</text>
+<rect x="370" y="710" width="129" height="14" fill="hsl(156.20770262955443, 68.20357637727147%, 80.9601099750023%)"/>
+<text x="435" y="720" font-size="10" text-anchor="middle" fill="#333">7</text>
+<rect x="500" y="710" width="129" height="14" fill="hsl(156.20770262955443, 68.20357637727147%, 80.9601099750023%)"/>
+<text x="565" y="720" font-size="10" text-anchor="middle" fill="#333">7</text>
+<rect x="630" y="710" width="129" height="14" fill="hsl(149.89873853404816, 69.08389694873746%, 79.34618892731464%)"/>
+<text x="695" y="720" font-size="10" text-anchor="middle" fill="#333">9</text>
+<rect x="760" y="710" width="129" height="14" fill="hsl(59.46227405620024, 81.70293850378602%, 56.21127940972564%)"/>
+<text x="825" y="720" font-size="10" text-anchor="middle" fill="#fff">244</text>
+<rect x="890" y="710" width="129" height="14" fill="hsl(77.16296778715949, 79.23307426225682%, 60.739363852529166%)"/>
+<text x="955" y="720" font-size="10" text-anchor="middle" fill="#fff">130</text>
+<text x="232" y="735" font-size="12" text-anchor="end">Saline-alkaline Habitat</text>
+<rect x="240" y="725" width="129" height="14" fill="hsl(63.419550644545524, 81.1507603751797%, 57.22360597883723%)"/>
+<text x="305" y="735" font-size="10" text-anchor="middle" fill="#fff">212</text>
+<rect x="370" y="725" width="129" height="14" fill="hsl(175.80513508636963, 65.46905091818098%, 85.97340665000154%)"/>
+<text x="435" y="735" font-size="10" text-anchor="middle" fill="#333">3</text>
+<rect x="500" y="725" width="129" height="14" fill="hsl(175.80513508636963, 65.46905091818098%, 85.97340665000154%)"/>
+<text x="565" y="735" font-size="10" text-anchor="middle" fill="#333">3</text>
+<rect x="630" y="725" width="129" height="14" fill="hsl(147.20402251478475, 69.45990383514632%, 78.65684296889842%)"/>
+<text x="695" y="735" font-size="10" text-anchor="middle" fill="#333">10</text>
+<rect x="760" y="725" width="129" height="14" fill="hsl(38.956390159923444, 84.5642246288479%, 50.96558818044553%)"/>
+<text x="825" y="735" font-size="10" text-anchor="middle" fill="#fff">505</text>
+<rect x="890" y="725" width="129" height="14" fill="hsl(47.276928134709294, 83.40321933004057%, 53.09409789492563%)"/>
+<text x="955" y="735" font-size="10" text-anchor="middle" fill="#fff">376</text>
+<text x="232" y="750" font-size="12" text-anchor="end">Sheep Gut</text>
+<rect x="240" y="740" width="129" height="14" fill="hsl(117.01283771592406, 73.67262729545246%, 70.93351662500383%)"/>
+<text x="305" y="750" font-size="10" text-anchor="middle" fill="#fff">31</text>
+<rect x="370" y="740" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="435" y="750" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="500" y="740" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="565" y="750" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="630" y="740" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="740" width="129" height="14" fill="hsl(101.19075416222287, 75.88035988434099%, 66.88600687870817%)"/>
+<text x="825" y="750" font-size="10" text-anchor="middle" fill="#fff">55</text>
+<rect x="890" y="740" width="129" height="14" fill="hsl(125.1465070750867, 72.53769668719721%, 73.01422274013846%)"/>
+<text x="955" y="750" font-size="10" text-anchor="middle" fill="#333">23</text>
+<text x="232" y="765" font-size="12" text-anchor="end">Turkey Gut</text>
+<rect x="240" y="755" width="129" height="14" fill="hsl(164.34137198871707, 67.06864576901623%, 83.04081609013693%)"/>
+<text x="305" y="765" font-size="10" text-anchor="middle" fill="#333">5</text>
+<rect x="370" y="755" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="500" y="755" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="630" y="755" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="695" y="765" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="760" y="755" width="129" height="14" fill="hsl(138.4349754363956, 70.6834917995727%, 76.41359836745004%)"/>
+<text x="825" y="765" font-size="10" text-anchor="middle" fill="#333">14</text>
+<rect x="890" y="755" width="129" height="14" fill="hsl(152.8776088910645, 68.66824061985146%, 80.1082255302723%)"/>
+<text x="955" y="765" font-size="10" text-anchor="middle" fill="#333">8</text>
+<text x="232" y="780" font-size="12" text-anchor="end">Vulture Gut</text>
+<rect x="240" y="770" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="305" y="780" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="370" y="770" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="500" y="770" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="630" y="770" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="695" y="780" font-size="10" text-anchor="middle" fill="#333">1</text>
+<rect x="760" y="770" width="129" height="14" fill="hsl(175.80513508636963, 65.46905091818098%, 85.97340665000154%)"/>
+<text x="825" y="780" font-size="10" text-anchor="middle" fill="#333">3</text>
+<rect x="890" y="770" width="129" height="14" fill="hsl(195.40256754318483, 62.73452545909049%, 90.98670332500076%)"/>
+<text x="955" y="780" font-size="10" text-anchor="middle" fill="#333">1</text>
+<text x="232" y="795" font-size="12" text-anchor="end">Wastewater</text>
+<rect x="240" y="785" width="129" height="14" fill="hsl(20.90934446790709, 87.0824170509897%, 46.348902073185535%)"/>
+<text x="305" y="795" font-size="10" text-anchor="middle" fill="#fff">957</text>
+<rect x="370" y="785" width="129" height="14" fill="hsl(111.41968700874598, 74.45306692901218%, 69.50271063014432%)"/>
+<text x="435" y="795" font-size="10" text-anchor="middle" fill="#fff">38</text>
+<rect x="500" y="785" width="129" height="14" fill="hsl(111.41968700874598, 74.45306692901218%, 69.50271063014432%)"/>
+<text x="565" y="795" font-size="10" text-anchor="middle" fill="#fff">38</text>
+<rect x="630" y="785" width="129" height="14" fill="hsl(69.96176512642745, 80.23789323817292%, 58.89719573001633%)"/>
+<text x="695" y="795" font-size="10" text-anchor="middle" fill="#fff">168</text>
+<rect x="760" y="785" width="129" height="14" fill="hsl(9.406258528561636, 88.68749880996815%, 43.406252181725065%)"/>
+<text x="825" y="795" font-size="10" text-anchor="middle" fill="#fff">1,438</text>
+<rect x="890" y="785" width="129" height="14" fill="hsl(32.66978519458175, 85.44142532168627%, 49.35738691024184%)"/>
+<text x="955" y="795" font-size="10" text-anchor="middle" fill="#fff">631</text>
+<text x="232" y="810" font-size="12" text-anchor="end">Waterdeer Gut</text>
+<rect x="240" y="800" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="370" y="800" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="500" y="800" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="630" y="800" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="800" width="129" height="14" fill="hsl(169.49617099086333, 66.34937148964697%, 84.35948560231388%)"/>
+<text x="825" y="810" font-size="10" text-anchor="middle" fill="#333">4</text>
+<rect x="890" y="800" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<text x="232" y="825" font-size="12" text-anchor="end">Wetlands Sediment</text>
+<rect x="240" y="815" width="129" height="14" fill="hsl(169.49617099086333, 66.34937148964697%, 84.35948560231388%)"/>
+<text x="305" y="825" font-size="10" text-anchor="middle" fill="#333">4</text>
+<rect x="370" y="815" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="500" y="815" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="630" y="815" width="129" height="14" fill="hsl(215, 60%, 96%)"/>
+<rect x="760" y="815" width="129" height="14" fill="hsl(147.20402251478475, 69.45990383514632%, 78.65684296889842%)"/>
+<text x="825" y="825" font-size="10" text-anchor="middle" fill="#333">10</text>
+<rect x="890" y="815" width="129" height="14" fill="hsl(156.20770262955443, 68.20357637727147%, 80.9601099750023%)"/>
+<text x="955" y="825" font-size="10" text-anchor="middle" fill="#333">7</text>
+<text x="232" y="840" font-size="12" text-anchor="end">Wheat Rhizosphere</text>
+<rect x="240" y="830" width="129" height="14" fill="hsl(125.1465070750867, 72.53769668719721%, 73.01422274013846%)"/>
+<text x="305" y="840" font-size="10" text-anchor="middle" fill="#333">23</text>
+<rect x="370" y="830" width="129" height="14" fill="hsl(159.98305153266844, 67.67678350706952%, 81.92589690370588%)"/>
+<text x="435" y="840" font-size="10" text-anchor="middle" fill="#333">6</text>
+<rect x="500" y="830" width="129" height="14" fill="hsl(159.98305153266844, 67.67678350706952%, 81.92589690370588%)"/>
+<text x="565" y="840" font-size="10" text-anchor="middle" fill="#333">6</text>
+<rect x="630" y="830" width="129" height="14" fill="hsl(156.20770262955443, 68.20357637727147%, 80.9601099750023%)"/>
+<text x="695" y="840" font-size="10" text-anchor="middle" fill="#333">7</text>
+<rect x="760" y="830" width="129" height="14" fill="hsl(99.24011052276524, 76.15254271775369%, 66.38700501745157%)"/>
+<text x="825" y="840" font-size="10" text-anchor="middle" fill="#fff">59</text>
+<rect x="890" y="830" width="129" height="14" fill="hsl(113.68274397743413, 74.13729153803244%, 70.08163218027384%)"/>
+<text x="955" y="840" font-size="10" text-anchor="middle" fill="#fff">35</text>
+<text x="232" y="855" font-size="12" text-anchor="end">Zebrafish Gut</text>
+<rect x="240" y="845" width="129" height="14" fill="hsl(97.86066042373295, 76.34502412692098%, 66.0341224339782%)"/>
+<text x="305" y="855" font-size="10" text-anchor="middle" fill="#fff">62</text>
+<rect x="370" y="845" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="435" y="855" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="500" y="845" width="129" height="14" fill="hsl(183.93880444553224, 64.33412030992574%, 88.05411276513615%)"/>
+<text x="565" y="855" font-size="10" text-anchor="middle" fill="#333">2</text>
+<rect x="630" y="845" width="129" height="14" fill="hsl(164.34137198871707, 67.06864576901623%, 83.04081609013693%)"/>
+<text x="695" y="855" font-size="10" text-anchor="middle" fill="#333">5</text>
+<rect x="760" y="845" width="129" height="14" fill="hsl(88.09225147829595, 77.70805793326103%, 63.535227122354776%)"/>
+<text x="825" y="855" font-size="10" text-anchor="middle" fill="#fff">88</text>
+<rect x="890" y="845" width="129" height="14" fill="hsl(112.90808953015811, 74.24538285625701%, 69.88346476352882%)"/>
+<text x="955" y="855" font-size="10" text-anchor="middle" fill="#fff">36</text>
+<text x="305" y="102" font-size="11" text-anchor="middle">K05973</text>
+<text x="435" y="102" font-size="11" text-anchor="middle">K22249</text>
+<text x="565" y="102" font-size="11" text-anchor="middle">K22250</text>
+<text x="695" y="102" font-size="11" text-anchor="middle">K07518</text>
+<text x="825" y="102" font-size="11" text-anchor="middle">K00019</text>
+<text x="955" y="102" font-size="11" text-anchor="middle">K01907</text>
+<text x="240" y="884" font-size="12" fill="#555">species counts per catalogue (log10 colour scale; 0 = absent)</text>
+</svg>

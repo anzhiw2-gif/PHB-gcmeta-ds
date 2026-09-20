@@ -81,6 +81,7 @@ node src/query_gcmeta_phb.js --fresh         # 忽略缓存重查
 - `phb_degradation_loci.tsv` —— 解聚酶基因的位点级证据(基因组、坐标、GTDB 谱系)
 - `phb_deg_distribution_by_catalogue.tsv` —— 每个 KO 在 50 个目录的物种数分布
 - `phb_deg_summary.json` —— 汇总统计
+- `report.html` + `figures/*.svg` —— 自包含可视化报告(离线浏览器打开;`node src/make_visualizations.js` 重新生成)
 
 ## 合规说明
 

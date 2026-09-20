@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380" font-family="Segoe UI,Arial,sans-serif">
+<text x="380" y="28" font-size="19" font-weight="bold" text-anchor="middle">PHB-degradation genomes by tier (total 18,297)</text>
+<rect x="128.4" y="82.07435955565632" width="136.53333333333333" height="237.92564044434368" rx="3" fill="#c0392b" opacity="0.88"/>
+<text x="196.66666666666669" y="76.07435955565632" font-size="12" text-anchor="middle" fill="#333">8,073</text>
+<text x="196.66666666666669" y="338" font-size="12" text-anchor="middle">Tier 1
+depolymerase</text>
+<rect x="341.73333333333335" y="278.6805712990252" width="136.53333333333333" height="41.31942870097483" rx="3" fill="#c0392b" opacity="0.88"/>
+<text x="410" y="272.6805712990252" font-size="12" text-anchor="middle" fill="#333">1,402</text>
+<text x="410" y="338" font-size="12" text-anchor="middle">Tier 2
+3HB mobilization</text>
+<rect x="555.0666666666667" y="60" width="136.53333333333333" height="260" rx="3" fill="#c0392b" opacity="0.88"/>
+<text x="623.3333333333334" y="54" font-size="12" text-anchor="middle" fill="#333">8,822</text>
+<text x="623.3333333333334" y="338" font-size="12" text-anchor="middle">Tier 3
+partial</text>
+<text x="90" y="366" font-size="13" fill="#555">tier</text>
+<text x="16" y="190" font-size="13" fill="#555" text-anchor="middle" transform="rotate(-90 16 190)">genomes</text>
+</svg>

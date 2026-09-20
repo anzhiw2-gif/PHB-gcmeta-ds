@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="760" height="380" viewBox="0 0 760 380" font-family="Segoe UI,Arial,sans-serif">
+<text x="380" y="28" font-size="19" font-weight="bold" text-anchor="middle">Gene loci (depolymerase / hydrolase) retrieved from gcMeta</text>
+<rect x="118.8" y="60" width="102.4" height="260" rx="3" fill="#d35400" opacity="0.88"/>
+<text x="170" y="54" font-size="12" text-anchor="middle" fill="#333">8,839</text>
+<text x="170" y="338" font-size="12" text-anchor="middle">K05973
+phaZ PHB</text>
+<rect x="278.8" y="208.64657385993803" width="102.4" height="111.35342614006198" rx="3" fill="#d35400" opacity="0.88"/>
+<text x="330" y="202.64657385993803" font-size="12" text-anchor="middle" fill="#333">48</text>
+<text x="330" y="338" font-size="12" text-anchor="middle">K22249
+phaZ PHO</text>
+<rect x="438.8" y="156.14245550188446" width="102.4" height="163.85754449811554" rx="3" fill="#d35400" opacity="0.88"/>
+<text x="490" y="150.14245550188446" font-size="12" text-anchor="middle" fill="#333">306</text>
+<text x="490" y="338" font-size="12" text-anchor="middle">K22250
+phaZ PHO</text>
+<rect x="598.8" y="132.47773963603285" width="102.4" height="187.52226036396715" rx="3" fill="#d35400" opacity="0.88"/>
+<text x="650" y="126.47773963603285" font-size="12" text-anchor="middle" fill="#333">701</text>
+<text x="650" y="338" font-size="12" text-anchor="middle">K07518
+dimer hydrolase</text>
+<text x="90" y="366" font-size="13" fill="#555">KO</text>
+<text x="16" y="190" font-size="13" fill="#555" text-anchor="middle" transform="rotate(-90 16 190)">loci (log10)</text>
+</svg>

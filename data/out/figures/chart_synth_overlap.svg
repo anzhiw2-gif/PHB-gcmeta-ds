@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="340" viewBox="0 0 620 340" font-family="Segoe UI,Arial,sans-serif">
+<text x="310" y="28" font-size="18" font-weight="bold" text-anchor="middle">PHB synthesis genes in degradation-genome tiers (phaA/phaB/phaC)</text>
+<rect x="115" y="120.09408297438225" width="116.66666666666666" height="169.90591702561775" fill="#1f618d"/>
+<text x="173.33333333333331" y="209.0470414871911" font-size="11" text-anchor="middle" fill="#fff">6,517</text>
+<rect x="115" y="81.32622987984587" width="116.66666666666666" height="38.767853094536385" fill="#7fb3d5"/>
+<text x="173.33333333333331" y="104.71015642711406" font-size="11" text-anchor="middle" fill="#fff">1,487</text>
+<rect x="115" y="79.52731806846523" width="116.66666666666666" height="1.7989118113806393" fill="#d5d8dc"/>
+<text x="173.33333333333331" y="84.42677397415555" font-size="11" text-anchor="middle" fill="#fff">69</text>
+<text x="173.33333333333331" y="308" font-size="12" text-anchor="middle">Tier 1</text>
+<rect x="281.66666666666663" y="273.2362276127862" width="116.66666666666666" height="16.763772387213784" fill="#1f618d"/>
+<text x="339.99999999999994" y="285.61811380639307" font-size="11" text-anchor="middle" fill="#fff">643</text>
+<rect x="281.66666666666663" y="254.17819088642028" width="116.66666666666666" height="19.058036726365906" fill="#7fb3d5"/>
+<text x="339.99999999999994" y="267.70720924960324" font-size="11" text-anchor="middle" fill="#fff">731</text>
+<rect x="281.66666666666663" y="253.44819768759916" width="116.66666666666666" height="0.729993198821129" fill="#d5d8dc"/>
+<text x="339.99999999999994" y="257.81319428700976" font-size="11" text-anchor="middle" fill="#fff">28</text>
+<text x="339.99999999999994" y="308" font-size="12" text-anchor="middle">Tier 2</text>
+<rect x="448.3333333333333" y="232.2001813647699" width="116.66666666666666" height="57.7998186352301" fill="#1f618d"/>
+<text x="506.66666666666663" y="265.1000906823849" font-size="11" text-anchor="middle" fill="#fff">2,217</text>
+<rect x="448.3333333333333" y="86.85332124234867" width="116.66666666666666" height="145.34686012242122" fill="#7fb3d5"/>
+<text x="506.66666666666663" y="163.52675130355928" font-size="11" text-anchor="middle" fill="#fff">5,575</text>
+<rect x="448.3333333333333" y="60" width="116.66666666666666" height="26.853321242348674" fill="#d5d8dc"/>
+<text x="506.66666666666663" y="77.42666062117434" font-size="11" text-anchor="middle" fill="#fff">1,030</text>
+<text x="506.66666666666663" y="308" font-size="12" text-anchor="middle">Tier 3</text>
+</svg>

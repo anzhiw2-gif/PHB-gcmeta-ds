@@ -1,0 +1,223 @@
+<!DOCTYPE html>
+<html lang="zh-CN"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>gcMeta PHB 降解基因组检索 — 可视化报告</title>
+<style>
+ body{font-family:"Segoe UI","Microsoft YaHei",Arial,sans-serif;max-width:1000px;margin:0 auto;padding:24px;color:#222;}
+ h1{font-size:26px;border-bottom:3px solid #c0392b;padding-bottom:10px;}
+ h2{font-size:19px;margin-top:34px;color:#7b241c;}
+ .cards{display:flex;flex-wrap:wrap;gap:14px;margin:18px 0;}
+ .card{flex:1 1 160px;background:#f6f8fa;border:1px solid #e1e4e8;border-radius:8px;padding:14px;text-align:center;}
+ .card .num{font-size:26px;font-weight:bold;color:#c0392b;}
+ .card .lbl{font-size:12px;color:#555;margin-top:4px;}
+ table{border-collapse:collapse;width:100%;font-size:13px;margin-top:10px;}
+ th,td{border:1px solid #ddd;padding:6px 8px;text-align:left;}
+ th{background:#f0f3f5;}
+ .note{color:#666;font-size:12px;margin-top:8px;}
+ code{background:#f2f2f2;padding:1px 5px;border-radius:3px;}
+</style></head><body>
+<h1>gcMeta 中 PHB 降解相关基因组 — 可视化报告</h1>
+<p class="note">数据源:gcMeta 2025(Sun et al., NAR 54:D724-D733, doi:10.1093/nar/gkaf1115);
+检索框架:PhaDED / PHA Depolymerase Engineering Database(Knoll et al. 2009)→ KEGG KO。
+生成日期:2026-09-18。原始数据:<code>phb_degradation_genomes.tsv</code>、
+<code>phb_degradation_loci.tsv</code>、<code>phb_deg_distribution_by_catalogue.tsv</code>。</p>
+
+<div class="cards">
+ <div class="card"><div class="num">18,297</div><div class="lbl">携带 PHB 降解基因的基因组</div></div>
+ <div class="card"><div class="num">8,073</div><div class="lbl">Tier 1 · 解聚酶阳性</div></div>
+ <div class="card"><div class="num">1,402</div><div class="lbl">Tier 2 · 3HB 动员</div></div>
+ <div class="card"><div class="num">8,822</div><div class="lbl">Tier 3 · 部分</div></div>
+ <div class="card"><div class="num">9,894</div><div class="lbl">解聚酶/水解酶位点</div></div>
+</div>
+
+<figure style="margin:18px 0;text-align:center;">
+  <img src="figures/chart_tiers.svg" style="max-width:100%;border:1px solid #ddd;border-radius:6px;" alt="按层级统计">
+  <figcaption style="color:#555;font-size:13px;margin-top:6px;">按层级统计</figcaption>
+</figure>
+<figure style="margin:18px 0;text-align:center;">
+  <img src="figures/chart_catalogues.svg" style="max-width:100%;border:1px solid #ddd;border-radius:6px;" alt="生境分布">
+  <figcaption style="color:#555;font-size:13px;margin-top:6px;">生境分布</figcaption>
+</figure>
+<figure style="margin:18px 0;text-align:center;">
+  <img src="figures/chart_phyla.svg" style="max-width:100%;border:1px solid #ddd;border-radius:6px;" alt="门水平分布">
+  <figcaption style="color:#555;font-size:13px;margin-top:6px;">门水平分布</figcaption>
+</figure>
+<figure style="margin:18px 0;text-align:center;">
+  <img src="figures/chart_kos.svg" style="max-width:100%;border:1px solid #ddd;border-radius:6px;" alt="各 KO 覆盖物种数">
+  <figcaption style="color:#555;font-size:13px;margin-top:6px;">各 KO 覆盖物种数</figcaption>
+</figure>
+<figure style="margin:18px 0;text-align:center;">
+  <img src="figures/chart_loci.svg" style="max-width:100%;border:1px solid #ddd;border-radius:6px;" alt="解聚酶位点数">
+  <figcaption style="color:#555;font-size:13px;margin-top:6px;">解聚酶位点数</figcaption>
+</figure>
+<figure style="margin:18px 0;text-align:center;">
+  <img src="figures/chart_synth_overlap.svg" style="max-width:100%;border:1px solid #ddd;border-radius:6px;" alt="与 PHB 合成基因的共现">
+  <figcaption style="color:#555;font-size:13px;margin-top:6px;">与 PHB 合成基因的共现</figcaption>
+</figure>
+<figure style="margin:18px 0;text-align:center;">
+  <img src="figures/chart_quality.svg" style="max-width:100%;border:1px solid #ddd;border-radius:6px;" alt="Tier-1 基因组完整度">
+  <figcaption style="color:#555;font-size:13px;margin-top:6px;">Tier-1 基因组完整度</figcaption>
+</figure>
+<figure style="margin:18px 0;text-align:center;">
+  <img src="figures/chart_heatmap.svg" style="max-width:100%;border:1px solid #ddd;border-radius:6px;" alt="KO × 目录热图">
+  <figcaption style="color:#555;font-size:13px;margin-top:6px;">KO × 目录热图</figcaption>
+</figure>
+
+<h2>代表性命中基因组(前 15)</h2>
+<table>
+<tr><th>genomeNo</th><th>物种 (GTDB)</th><th>主要目录</th><th>质量</th><th>完整度%</th><th>PHB 降解 KO</th><th>解聚酶位点</th><th>合成 KO</th></tr>
+<tr>
+  <td>GCMeta_00380046</td>
+  <td><i>Comamonas acidovorans</i></td>
+  <td>Bear Oral</td>
+  <td>Medium-quality</td>
+  <td>100.0</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_01229335</td>
+  <td><i>Marinobacter flavimaris</i></td>
+  <td>Marine Seawater</td>
+  <td>Medium-quality</td>
+  <td>100.0</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_01230534</td>
+  <td><i>Acidovorax sp000302535</i></td>
+  <td>Marine Seawater</td>
+  <td>Medium-quality</td>
+  <td>100.0</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_01235863</td>
+  <td><i>g__Marinobacter</i></td>
+  <td>Marine Seawater</td>
+  <td>Medium-quality</td>
+  <td>100.0</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_01245446</td>
+  <td><i>Marinobacter salsuginis</i></td>
+  <td>Marine Seawater</td>
+  <td>Medium-quality</td>
+  <td>100.0</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_01256468</td>
+  <td><i>Acidovorax facilis</i></td>
+  <td>Groundwater</td>
+  <td>Medium-quality</td>
+  <td>100.0</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_00540266</td>
+  <td><i>Ralstonia pickettii_B</i></td>
+  <td>Drinking Water</td>
+  <td>Medium-quality</td>
+  <td>99.94</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_00793776</td>
+  <td><i>Ralstonia sp913056305</i></td>
+  <td>Pressure Habitat</td>
+  <td>Medium-quality</td>
+  <td>99.94</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>3</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_01211559</td>
+  <td><i>Ralstonia pickettii</i></td>
+  <td>Marine Seawater</td>
+  <td>Medium-quality</td>
+  <td>99.94</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_01231339</td>
+  <td><i>Cupriavidus metallidurans</i></td>
+  <td>Marine Seawater</td>
+  <td>Medium-quality</td>
+  <td>99.94</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>2</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_01252111</td>
+  <td><i>Ralstonia pickettii</i></td>
+  <td>Freshwater Riverine</td>
+  <td>Medium-quality</td>
+  <td>99.94</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_01307409</td>
+  <td><i>Ralstonia pickettii</i></td>
+  <td>Wastewater</td>
+  <td>Medium-quality</td>
+  <td>99.94</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_01159363</td>
+  <td><i>Marinobacter alexandrii</i></td>
+  <td>Marine Seawater</td>
+  <td>Medium-quality</td>
+  <td>99.88</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_00600833</td>
+  <td><i>Comamonas tsuruhatensis</i></td>
+  <td>Human Skin</td>
+  <td>Medium-quality</td>
+  <td>99.86</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+<tr>
+  <td>GCMeta_00022405</td>
+  <td><i>Comamonas acidovorans</i></td>
+  <td>Mouse Gut</td>
+  <td>Medium-quality</td>
+  <td>99.85</td>
+  <td>K00019;K01907;K05973;K07518</td>
+  <td>1</td>
+  <td>K00023;K00626;K03821</td>
+</tr>
+</table>
+<p class="note">注:目录为逗号/分号分隔的多目录归属的第一项;KO 缩写见 <code>config/phb_degradation_genes.tsv</code>。</p>
+
+<p class="note" style="margin-top:26px;">复现:<code>node src/query_gcmeta_phb.js</code> → <code>node src/aggregate_phb_genomes.js</code> → <code>node src/make_visualizations.js</code></p>
+</body></html>
