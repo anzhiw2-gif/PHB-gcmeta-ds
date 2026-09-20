@@ -1,0 +1,95 @@
+{
+  "queriedAt": "2026-09-20T12:02:15.208Z",
+  "scope": {
+    "totalGenomeRecords": 3917189,
+    "biosamples": 127760,
+    "projects": 9653
+  },
+  "domains": {
+    "Bacteria": 3846768,
+    "Archaea": 69812,
+    "Eukaryota": 0,
+    "Fungi": 0,
+    "Novel Species": 81397,
+    "unassigned": 609
+  },
+  "groups": [
+    {
+      "group": "Human",
+      "mags": 2184900,
+      "bacteria": 2178391,
+      "archaea": 6509
+    },
+    {
+      "group": "Large Livestock",
+      "mags": 679870,
+      "bacteria": 668181,
+      "archaea": 11671
+    },
+    {
+      "group": "Animals",
+      "mags": 169847,
+      "bacteria": 169707,
+      "archaea": 140
+    },
+    {
+      "group": "Marine",
+      "mags": 232312,
+      "bacteria": 212218,
+      "archaea": 20094
+    },
+    {
+      "group": "Environments",
+      "mags": 127393,
+      "bacteria": 118511,
+      "archaea": 8882
+    },
+    {
+      "group": "Poultry",
+      "mags": 93205,
+      "bacteria": 92544,
+      "archaea": 661
+    },
+    {
+      "group": "Extreme Environments",
+      "mags": 56834,
+      "bacteria": 48303,
+      "archaea": 8474
+    },
+    {
+      "group": "Freshwater",
+      "mags": 50787,
+      "bacteria": 50644,
+      "archaea": 143
+    },
+    {
+      "group": "Wild Animals",
+      "mags": 36977,
+      "bacteria": 36617,
+      "archaea": 358
+    },
+    {
+      "group": "Domestic Animals",
+      "mags": 24411,
+      "bacteria": 24410,
+      "archaea": 1
+    },
+    {
+      "group": "Plant Rhizosphere",
+      "mags": 2827,
+      "bacteria": 2756,
+      "archaea": 71
+    },
+    {
+      "group": "Fish",
+      "mags": 2795,
+      "bacteria": 2795,
+      "archaea": 0
+    }
+  ],
+  "catalogues": {
+    "count": 50,
+    "magsInCatalogues": 2788660,
+    "speciesLevelPerCatalogueSum": 155263
+  }
+}
