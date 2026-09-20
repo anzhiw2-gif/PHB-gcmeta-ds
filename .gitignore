@@ -6,3 +6,9 @@ node_modules/
 data/raw/
 data/out/
 *.log
+.nature-skills/
+.venv_pkgs/
+.venv/
+*.whl
+.nature_fig_config.json
+nature_figures/*.tiff

@@ -1,0 +1,52 @@
+# Fig. 1 — QA notes (nature-figure v2.8.0, Python backend)
+
+Backend: python (saved via nature_figure_backend.py; runtime Python 3.12,
+matplotlib 3.11.0, numpy 2.4.6, pandas 3.0.3; PyMuPDF 1.28.2 for the collision
+audit, installed from wheel into the workspace-local package dir).
+
+Contract
+--------
+- Core conclusion: PHB-degradation potential is widespread in gcMeta
+  (18,297/109,586 species-representative MAGs; 8,073 depolymerase-positive),
+  enriched in aquatic biomes and Pseudomonadota, usually co-occurring with PHB
+  synthesis.
+- Archetype: quantitative grid with a full-width hero panel (a).
+- Export: double-column width 180 mm x 155 mm; Arial/DejaVu; editable text
+  (svg.fonttype none, pdf.fonttype 42); SVG primary + PDF + TIFF 600 dpi +
+  PNG 300 dpi preview.
+
+Checks
+------
+- validate_figure.py: 20 PASS / 1 WARN / 0 FAIL -> READY FOR VISUAL QA.
+  The single WARN is FINAL-WIDTH: the static validator multiplies the figsize
+  expression and reports 4572 mm; the actual rendered width is 180 mm
+  (double-column), as set by figsize=(180/25.4, 155/25.4).
+- require_matplotlib_panel_alignment: PASS (0 fail / 0 warn, 4 comparisons,
+  strict, tolerance 1.5 pt). Hero panel a is omitted from the comparable
+  row/column groups (b/c and d/e); no exemptions needed.
+- audit_pdf_text.py (--min-pt 5): PASS (198 text runs, minimum 6.0 pt;
+  log-axis tick exponents were replaced by plain decimal labels to stay above
+  the 5 pt glyph floor).
+- audit_figure_collisions.py: PASS (0 fail / 0 warn). 99 contained fill
+  overlays are intentional white-on-colour heatmap cell labels; 70 contained
+  image overlays are the raster image clip.
+- Panel-by-panel visual inspection at final size: performed on the exported
+  PDF geometry; no overlapping glyphs remain. (This environment's model cannot
+  view raster previews, so rendered QA relies on the four automated audits
+  above plus measured PDF geometry.)
+
+Data-integrity notes
+--------------------
+- No rows were excluded. Panel a aggregates the 50 catalogues into 12 biome
+  groups (sum of per-catalogue species counts); the stated rule is recorded in
+  the figure legend; per-catalogue values remain in
+  data/out/phb_deg_distribution_by_catalogue.tsv.
+- Panel c counts catalogue memberships; multi-catalogue genomes count once per
+  catalogue (stated in legend).
+- No statistics beyond counts are shown; n definitions are given in the legend.
+
+Export bundle
+-------------
+fig1_phb_degradation_gcmeta.svg / .pdf / .tiff (600 dpi) / .png (300 dpi),
+alignment JSON + overlay SVG, collision-audit JSON + overlay PDF,
+make_nature_figure.py (source), fig1_legend.txt.

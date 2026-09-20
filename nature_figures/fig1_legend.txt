@@ -1,0 +1,37 @@
+# Fig. 1 — Legend
+
+**Fig. 1 | PHB-degradation potential across gcMeta metagenome-assembled genomes.**
+
+Panels show species-level representative MAGs from gcMeta 2025
+(Sun et al., *Nucleic Acids Res* 54:D724-D733; doi:10.1093/nar/gkaf1115) carrying
+PHB-degradation orthologues defined by the PHA Depolymerase Engineering Database
+classification (Knoll et al., *BMC Bioinformatics* 10:89; doi:10.1186/1471-2105-10-89)
+mapped onto KEGG orthologues (K05973 phaZ PHB depolymerase; K22249/K22250 phaZ
+PHO depolymerase; K07518 3HB-dimer hydrolase; K00019 3-hydroxybutyrate
+dehydrogenase; K01907 acetoacetyl-CoA synthetase; synthesis reference
+phaA/phaB/phaC = K00626/K00023/K03821).
+
+**a**, species counts per KO summed across the 50 biome catalogues within each of
+the 12 biome groups (a species occurring in several catalogues of one group is
+counted once per catalogue); log10(x + 1) colour scale; white numbers are exact
+sums.
+
+**b**, genomes carrying at least one PHB-degradation orthologue (n = 18,297),
+stratified by tier — Tier 1: depolymerase-positive (K05973/K22249/K22250);
+Tier 2: 3HB mobilisation (K07518, or K00019 with K01907) without a depolymerase;
+Tier 3: any remaining combination — and by co-occurrence of PHB synthesis genes
+(With phaC: K03821; Other synthesis: K00626/K00023 without K03821; None).
+
+**c**, the ten biome catalogues with most PHB-degradation-genome memberships
+(a genome may belong to several catalogues).
+
+**d**, the ten GTDB phyla with most PHB-degradation genomes.
+
+**e**, gene loci retrieved for the depolymerase/hydrolase orthologues
+(K05973, K22249, K22250, K07518); y-axis is logarithmic.
+
+All data derive from gcMeta annotations (DIAMOND, e-value <= 1e-5) at the
+species-representative MAG level; n and tier definitions as in b.
+Source data: `data/out/phb_degradation_genomes.tsv`,
+`data/out/phb_degradation_loci.tsv`,
+`data/out/phb_deg_distribution_by_catalogue.tsv`.
